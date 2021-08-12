@@ -1,0 +1,27 @@
+<!DOCTYPE  html> 
+
+<html lang="es">
+
+     <head>
+
+     <meta  charset = "UTF-8"/>
+     <meta name  = "description" content = "pagina de enseñanza html 5 "/>
+      <meta name = "keywords"  content =  "html5,  css3,  javascript,  diseñp web"/>
+      
+      <title>Animales extraviadosn </title>
+
+       <link rel="stylesheet"  href="css/lista.css" />
+       <Script src=""></Script>
+
+   </head>
+
+   <body>
+   	<header>
+   		<div class = "contenedor"> <a href="inicio.html"> <img id = "logo"src="img/logo.jpg"height= "100px" width="100"></a>
+   	   <h1> Mascotas extraviados</h1>
+   	   <input type="checkbox"  id="menu-bar">
+   	   <label for="menu-bar"><img id="tipo"src="img/tipo.png"height= "70px" width="70"></label><br><br><br><br><br><br>
+
+
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.200177258095!2d-75.57033028599618!3d6.237325595485055!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e44284e07dc20bf%3A0x935ceb310b9cde14!2sCl.%2038%20%2384%2C%20Medell%C3%ADn%2C%20Antioquia!5e0!3m2!1ses!2sco!4v1627051922936!5m2!1ses!2sco" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>

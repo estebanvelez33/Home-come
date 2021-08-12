@@ -1,0 +1,48 @@
+@charset "utf-8";
+/*CSS Document */
+*{
+	margin: 0px;
+	padding: 10px;
+
+}
+.limpir {
+      clear: both;  
+
+      /*--MENU--*/  
+}
+label, textarea, #letra{
+	margin: auto;
+	width: 90%;
+   /* background: yellow;*/
+}
+label, #letra{
+
+	margin: auto;
+	padding: 50px;
+	background: #C7CBCB;
+	width: 40%;
+	height: 30px;
+}
+textarea{
+	width: 40%;
+	height: 30px;
+	margin: auto;
+}
+#titulo{
+	padding: 2px;
+	background: #C7CBCB;
+	width: 13%;
+	height: 15px;
+}
+#titulo1{
+	padding: 2px;
+	background: #C7CBCB;
+	width: 20%;
+	height: 20px;
+}
+#titulo2{
+	padding: 2px;
+	background: #C7CBCB;
+	width: 35%;
+	height: 20px;
+}

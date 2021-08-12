@@ -1,0 +1,42 @@
+/*CSS Document */
+*{
+	margin: 0px;
+	padding: 10px;
+
+}
+.limpir {
+      clear: both;  
+
+      /*--MENU--*/  
+}
+label,textarea, #letra{
+	margin: auto;
+	width: 90%;
+   /* background: yellow;*/
+}
+label, #letra{
+
+	margin: auto;
+	padding: 50px;
+	background: #C7CBCB;
+	width: 40%;
+	height: 30px;
+}
+textarea{
+	width: 40%;
+	height: 30px;
+	margin: auto;
+}
+#titulo1{
+	padding: 2px;
+	background: #C7CBCB;
+	margin: auto;
+    width: 70%;
+	height: 30%;
+}
+
+p{
+	width: 70%;
+	height: 30%;
+
+}

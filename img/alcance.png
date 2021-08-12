@@ -1,0 +1,843 @@
+<!doctype html><html
+lang="es"><head><meta
+charset="UTF-8"><meta
+name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5, viewport-fit=cover"><link
+rel="profile" href="https://gmpg.org/xfn/11"> <script type="text/javascript">!function(e){var r={};function n(t){if(r[t])return r[t].exports;var o=r[t]={i:t,l:!1,exports:{}};return e[t].call(o.exports,o,o.exports,n),o.l=!0,o.exports}n.m=e,n.c=r,n.d=function(e,r,t){n.o(e,r)||Object.defineProperty(e,r,{enumerable:!0,get:t})},n.r=function(e){"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},n.t=function(e,r){if(1&r&&(e=n(e)),8&r)return e;if(4&r&&"object"==typeof e&&e&&e.__esModule)return e;var t=Object.create(null);if(n.r(t),Object.defineProperty(t,"default",{enumerable:!0,value:e}),2&r&&"string"!=typeof e)for(var o in e)n.d(t,o,function(r){return e[r]}.bind(null,o));return t},n.n=function(e){var r=e&&e.__esModule?function(){return e.default}:function(){return e};return n.d(r,"a",r),r},n.o=function(e,r){return Object.prototype.hasOwnProperty.call(e,r)},n.p="",n(n.s=0)}([function(e,r){!function(e){var r=e.ampUrl,n=e.isCustomizePreview,t=e.isAmpDevMode,o=e.noampQueryVarName,a=e.noampQueryVarValue,i=e.disabledStorageKey,u=e.mobileUserAgents,s=e.regexRegex;if("undefined"!=typeof sessionStorage){var f=new RegExp(s);if(u.some((function(e){var r=e.match(f);if(r&&new RegExp(r[1],r[2]).test(navigator.userAgent))return!0;return navigator.userAgent.includes(e)}))){document.addEventListener("DOMContentLoaded",(function(){var e=document.getElementById("amp-mobile-version-switcher");if(e){e.hidden=!1;var r=e.querySelector("a[href]");r&&r.addEventListener("click",(function(){sessionStorage.removeItem(i)}))}}));var c=t&&["paired-browsing-non-amp","paired-browsing-amp"].includes(window.name);if(!(sessionStorage.getItem(i)||n||c)){var d=new URL(location.href),l=new URL(r);l.hash=d.hash,d.searchParams.has(o)&&a===d.searchParams.get(o)?sessionStorage.setItem(i,"1"):l.href!==d.href&&(window.stop(),location.replace(l.href))}}}}({"ampUrl":"https:\/\/blog.comparasoftware.com\/alcance-del-proyecto\/?amp=1","noampQueryVarName":"noamp","noampQueryVarValue":"mobile","disabledStorageKey":"amp_mobile_redirect_disabled","mobileUserAgents":["Mobile","Android","Silk\/","Kindle","BlackBerry","Opera Mini","Opera Mobi"],"regexRegex":"^\\/((?:.|\n)+)\\/([i]*)$","isCustomizePreview":false,"isAmpDevMode":false})}]);</script> <meta
+name='robots' content='max-image-preview:large' /> <script data-cfasync="false" data-pagespeed-no-defer type="text/javascript">var gtm4wp_datalayer_name="dataLayer";var dataLayer=dataLayer||[];</script> <title>➤ Alcance de un Proyecto: Definición y Ejemplos &ndash; ComparaSoftware</title><meta
+name="description" content="El alcance del proyecto es un aspecto fundamental a tener en cuenta en un proceso de gestión. Sigue leyendo, tu negocio está en juego." /><meta
+name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" /><link
+rel="canonical" href="https://blog.comparasoftware.com/alcance-del-proyecto/" /><meta
+property="og:locale" content="es_ES" /><meta
+property="og:type" content="article" /><meta
+property="og:title" content="➤ Alcance de un Proyecto: Definición y Ejemplos &ndash; ComparaSoftware" /><meta
+property="og:description" content="El alcance del proyecto es un aspecto fundamental a tener en cuenta en un proceso de gestión. Sigue leyendo, tu negocio está en juego." /><meta
+property="og:url" content="https://blog.comparasoftware.com/alcance-del-proyecto/" /><meta
+property="og:site_name" content="ComparaSoftware Blog" /><meta
+property="article:publisher" content="https://www.facebook.com/comparasoftware/?_rdc=2&amp;amp%3bamp%3b_rdr" /><meta
+property="article:published_time" content="2018-12-24T12:49:18+00:00" /><meta
+property="article:modified_time" content="2021-01-04T16:46:25+00:00" /><meta
+property="og:image" content="https://blog.comparasoftware.com/wp-content/uploads/2018/12/Alcance-del-proyecto.png" /><meta
+property="og:image:width" content="2240" /><meta
+property="og:image:height" content="1260" /><meta
+name="twitter:card" content="summary_large_image" /><meta
+name="twitter:creator" content="@ComparaSoftware" /><meta
+name="twitter:site" content="@ComparaSoftware" /><meta
+name="twitter:label1" content="Escrito por"><meta
+name="twitter:data1" content="Mauricio Cacciavillani"><meta
+name="twitter:label2" content="Tiempo de lectura"><meta
+name="twitter:data2" content="6 minutos"> <script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://blog.comparasoftware.com/#organization","name":"ComparaSoftware","url":"https://blog.comparasoftware.com/","sameAs":["https://www.facebook.com/comparasoftware/?_rdc=2&amp;amp;_rdr","https://www.instagram.com/compara.software/","https://www.linkedin.com/company/comparasoftware/","https://www.youtube.com/channel/UCFpEO9CwYa_z0-Brf7HM_XQ","https://twitter.com/ComparaSoftware"],"logo":{"@type":"ImageObject","@id":"https://blog.comparasoftware.com/#logo","inLanguage":"es","url":"https://blog.comparasoftware.com/wp-content/uploads/2018/08/CS_DOBLELINEAPNG_HD.png","width":5152,"height":1656,"caption":"ComparaSoftware"},"image":{"@id":"https://blog.comparasoftware.com/#logo"}},{"@type":"WebSite","@id":"https://blog.comparasoftware.com/#website","url":"https://blog.comparasoftware.com/","name":"ComparaSoftware Blog","description":"","publisher":{"@id":"https://blog.comparasoftware.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://blog.comparasoftware.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"es"},{"@type":"ImageObject","@id":"https://blog.comparasoftware.com/alcance-del-proyecto/#primaryimage","inLanguage":"es","url":"https://blog.comparasoftware.com/wp-content/uploads/2018/12/Alcance-del-proyecto.png","width":2240,"height":1260,"caption":"Alcance del proyecto"},{"@type":"WebPage","@id":"https://blog.comparasoftware.com/alcance-del-proyecto/#webpage","url":"https://blog.comparasoftware.com/alcance-del-proyecto/","name":"\u27a4 Alcance de un Proyecto: Definici\u00f3n y Ejemplos &ndash; ComparaSoftware","isPartOf":{"@id":"https://blog.comparasoftware.com/#website"},"primaryImageOfPage":{"@id":"https://blog.comparasoftware.com/alcance-del-proyecto/#primaryimage"},"datePublished":"2018-12-24T12:49:18+00:00","dateModified":"2021-01-04T16:46:25+00:00","description":"El alcance del proyecto es un aspecto fundamental a tener en cuenta en un proceso de gesti\u00f3n. Sigue leyendo, tu negocio est\u00e1 en juego.","breadcrumb":{"@id":"https://blog.comparasoftware.com/alcance-del-proyecto/#breadcrumb"},"inLanguage":"es","potentialAction":[{"@type":"ReadAction","target":["https://blog.comparasoftware.com/alcance-del-proyecto/"]}]},{"@type":"BreadcrumbList","@id":"https://blog.comparasoftware.com/alcance-del-proyecto/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://blog.comparasoftware.com/","url":"https://blog.comparasoftware.com/","name":"Inicio"}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","@id":"https://blog.comparasoftware.com/gestion-de-proyectos/","url":"https://blog.comparasoftware.com/gestion-de-proyectos/","name":"Gesti\u00f3n de Proyectos"}},{"@type":"ListItem","position":3,"item":{"@type":"WebPage","@id":"https://blog.comparasoftware.com/alcance-del-proyecto/","url":"https://blog.comparasoftware.com/alcance-del-proyecto/","name":"Alcance de un Proyecto: Definici\u00f3n y Ejemplos"}}]},{"@type":"Article","@id":"https://blog.comparasoftware.com/alcance-del-proyecto/#article","isPartOf":{"@id":"https://blog.comparasoftware.com/alcance-del-proyecto/#webpage"},"author":{"@id":"https://blog.comparasoftware.com/#/schema/person/05384706daf119b12fe0d6ea5c43e6b4"},"headline":"Alcance de un Proyecto: Definici\u00f3n y Ejemplos","datePublished":"2018-12-24T12:49:18+00:00","dateModified":"2021-01-04T16:46:25+00:00","mainEntityOfPage":{"@id":"https://blog.comparasoftware.com/alcance-del-proyecto/#webpage"},"commentCount":9,"publisher":{"@id":"https://blog.comparasoftware.com/#organization"},"image":{"@id":"https://blog.comparasoftware.com/alcance-del-proyecto/#primaryimage"},"articleSection":"Gesti\u00f3n de Proyectos","inLanguage":"es","potentialAction":[{"@type":"CommentAction","name":"Comment","target":["https://blog.comparasoftware.com/alcance-del-proyecto/#respond"]}]},{"@type":"Person","@id":"https://blog.comparasoftware.com/#/schema/person/05384706daf119b12fe0d6ea5c43e6b4","name":"Mauricio Cacciavillani","image":{"@type":"ImageObject","@id":"https://blog.comparasoftware.com/#personlogo","inLanguage":"es","url":"https://secure.gravatar.com/avatar/5c0512ce29e51551ba35f3fe9b7150e0?s=96&d=retro&r=g","caption":"Mauricio Cacciavillani"},"description":"Experto en Generaci\u00f3n de Demanda para la industria del Software.","sameAs":["https://www.comparasoftware.com","https://www.linkedin.com/in/mauriciocacciavillani/"]}]}</script> <link
+rel='dns-prefetch' href='//s.w.org' /><link
+rel="alternate" type="application/rss+xml" title="ComparaSoftware Blog &raquo; Feed" href="https://blog.comparasoftware.com/feed/" /><link
+rel="alternate" type="application/rss+xml" title="ComparaSoftware Blog &raquo; Feed de los comentarios" href="https://blog.comparasoftware.com/comments/feed/" /><link
+rel="alternate" type="application/rss+xml" title="ComparaSoftware Blog &raquo; Comentario Alcance de un Proyecto: Definición y Ejemplos del feed" href="https://blog.comparasoftware.com/alcance-del-proyecto/feed/" />
+<noscript><link
+rel='stylesheet' href='https://blog.comparasoftware.com/wp-content/themes/blocksy/static/bundle/no-scripts.css' type='text/css' /></noscript><style id="ct-main-styles-inline-css">.entry-header .page-title{--fontSize:32px;--headingColor:var(--paletteColor4)}.entry-header .entry-meta{--fontWeight:600;--textTransform:uppercase;--fontSize:12px;--lineHeight:1.5;--color:var(--paletteColor4)}.entry-header .page-description{--color:var(--paletteColor4)}.entry-header .ct-breadcrumbs{--fontWeight:600;--textTransform:uppercase;--fontSize:12px;--color:var(--paletteColor3)}.hero-section[data-type="type-1"]{--alignment:center;--margin-bottom:50px}[data-prefix="single_blog_post"] [data-structure*="boxed"]{--background-image:none;--background-color:#f9fafc;--boxed-content-spacing:40px;--border-radius:3px}[data-prefix="single_page"] [data-structure*="boxed"]{--background-image:none;--background-color:#fff;--boxed-content-spacing:40px;--border-radius:3px;--box-shadow:0px 12px 18px -6px rgba(34, 56, 101, 0.04)}</style><style id="ct-main-styles-tablet-inline-css" media="(max-width: 999.98px)">.entry-header .page-title{--fontSize:30px}.hero-section[data-type="type-1"]{--alignment:left;--margin-bottom:30px}[data-prefix="single_blog_post"] [data-structure*="boxed"]{--boxed-content-spacing:35px}[data-prefix="single_page"] [data-structure*="boxed"]{--boxed-content-spacing:35px}</style><style id="ct-main-styles-mobile-inline-css" media="(max-width: 689.98px)">.entry-header .page-title{--fontSize:25px}[data-prefix="single_blog_post"] [data-structure*="boxed"]{--boxed-content-spacing:20px}[data-prefix="single_page"] [data-structure*="boxed"]{--boxed-content-spacing:20px}</style><link
+rel='stylesheet' id='blocksy-dynamic-global-css'  href='https://blog.comparasoftware.com/wp-content/uploads/blocksy/css/global.css?ver=20683' type='text/css' media='all' /><link
+rel='stylesheet' id='wp-block-library-css'  href='https://blog.comparasoftware.com/wp-includes/css/dist/block-library/style.min.css?ver=5.7.1' type='text/css' media='all' /><link
+rel='stylesheet' id='mpp_gutenberg-css'  href='https://blog.comparasoftware.com/wp-content/plugins/metronet-profile-picture/dist/blocks.style.build.css?ver=2.5.0' type='text/css' media='all' /><link
+rel='stylesheet' id='ct-main-styles-css'  href='https://blog.comparasoftware.com/wp-content/themes/blocksy/static/bundle/main.css?ver=1.7.71' type='text/css' media='all' /><link
+rel='stylesheet' id='blocksy-ext-widgets-styles-css'  href='https://blog.comparasoftware.com/wp-content/plugins/blocksy-companion/framework/extensions/widgets/static/bundle/main.css?ver=1.7.63' type='text/css' media='all' /><link
+rel='stylesheet' id='wtr-css-css'  href='https://blog.comparasoftware.com/wp-content/plugins/worth-the-read/css/wtr.css?ver=5.7.1' type='text/css' media='all' /><link
+rel='stylesheet' id='ghostkit-css'  href='https://blog.comparasoftware.com/wp-content/plugins/ghostkit/gutenberg/style.min.css?ver=2.19.1' type='text/css' media='all' /><style id='ghostkit-typography-inline-css' type='text/css'></style> <script type='text/javascript' src='https://blog.comparasoftware.com/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script> <script type='text/javascript' src='https://blog.comparasoftware.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script> <script type='text/javascript' src='https://blog.comparasoftware.com/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-form-move-tracker.js?ver=1.12.3' id='gtm4wp-form-move-tracker-js'></script> <link
+rel="https://api.w.org/" href="https://blog.comparasoftware.com/wp-json/" /><link
+rel="alternate" type="application/json" href="https://blog.comparasoftware.com/wp-json/wp/v2/posts/19851" /><link
+rel="EditURI" type="application/rsd+xml" title="RSD" href="https://blog.comparasoftware.com/xmlrpc.php?rsd" /><link
+rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://blog.comparasoftware.com/wp-includes/wlwmanifest.xml" /><meta
+name="generator" content="WordPress 5.7.1" /><link
+rel='shortlink' href='https://blog.comparasoftware.com/?p=19851' /><link
+rel="alternate" type="application/json+oembed" href="https://blog.comparasoftware.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fblog.comparasoftware.com%2Falcance-del-proyecto%2F" /><link
+rel="alternate" type="text/xml+oembed" href="https://blog.comparasoftware.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fblog.comparasoftware.com%2Falcance-del-proyecto%2F&#038;format=xml" /><style type="text/css">.wtr-time-wrap{margin:0
+10px;letter-spacing:1px}.wtr-time-number{}</style> <script data-cfasync="false" data-pagespeed-no-defer type="text/javascript">var dataLayer_content={"pagePostType":"post","pagePostType2":"single-post","pageCategory":["gestion-de-proyectos"],"pagePostAuthor":"Mauricio Cacciavillani","pagePostDate":"diciembre 24, 2018","pagePostDateYear":"2018","pagePostDateMonth":"12","pagePostDateDay":"24","pagePostTerms":{"category":["Gestión de Proyectos"]}};dataLayer.push(dataLayer_content);</script> <script data-cfasync="false">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.'+'js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-PMHMK9K');</script> <link
+rel="amphtml" href="https://blog.comparasoftware.com/alcance-del-proyecto/?amp"><style>#amp-mobile-version-switcher{position:absolute;width:100%;left:0;z-index:100}#amp-mobile-version-switcher>a{display:block;padding:15px
+0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;font-size:16px;font-weight:600;color:#eaeaea;text-align:center;text-decoration:none;background-color:#444;border:0}#amp-mobile-version-switcher>a:hover,#amp-mobile-version-switcher>a:focus,#amp-mobile-version-switcher>a:active{text-decoration:underline}</style><link
+rel="alternate" type="text/html" media="only screen and (max-width: 640px)" href="https://blog.comparasoftware.com/alcance-del-proyecto/?amp=1"><link
+rel="icon" href="https://blog.comparasoftware.com/wp-content/uploads/2021/04/cropped-Marca-ComparaSoftware-13-32x32.jpg" sizes="32x32" /><link
+rel="icon" href="https://blog.comparasoftware.com/wp-content/uploads/2021/04/cropped-Marca-ComparaSoftware-13-192x192.jpg" sizes="192x192" /><link
+rel="apple-touch-icon" href="https://blog.comparasoftware.com/wp-content/uploads/2021/04/cropped-Marca-ComparaSoftware-13-180x180.jpg" /><meta
+name="msapplication-TileImage" content="https://blog.comparasoftware.com/wp-content/uploads/2021/04/cropped-Marca-ComparaSoftware-13-270x270.jpg" /><style type="text/css" id="wp-custom-css">.wp-block-quote:not(.has-text-align-center):not(.has-text-align-right){margin-bottom:20px;padding:35px;position:relative;border-radius:20px;border:1px
+solid #e9e9ea;border-left-color:rgb(233, 233, 234);border-left-style:solid;border-left-width:1px;border-left:8px solid #176fee}.wp-block-quote
+p{margin-bottom:20px;margin-top:20px;margin-right:20px;color:#176fee}.wp-block-group{background-color:rgb(242, 248, 248);border-style:solid;border-width:1px;border-color:rgb(147, 180, 216);padding:1.5rem;border-radius:0.1875rem;margin-bottom:20px}.entry-content > :not(.alignfull) [class*="_inner-container"]{width:100% !important}.wp-block-buttons .wp-block-button:last-child{text-transform:uppercase}.wp-block-table.is-style-stripes td,.wp-block-table.is-style-stripes{margin-bottom:25px}.ghostkit-gif
+img{padding:20px;align-content:center}.entry-content
+figcaption{margin-bottom:15px}.wp-block-pullquote:not(.is-style-solid-color){margin-bottom:15px}.wp-block-quote{margin-bottom:15px}a{color:#2872fa;font-weight:bold !important}table{margin-bottom:20px}thead{background-color:#176fee;color:white !important;font-size:60%;text-align:center}tbody{font-size:60%;text-align:center}.wp-block-gallery{margin-bottom:20px}.wp-block-preformatted{background:#4f7afc;border-radius:10px;color:white}.wp-block-preformatted
+a{color:yellow}embed,iframe,object,video,figure{max-width:90%}.i-amphtml-layout-size-defined{overflow:hidden!important;height:700px !important}.iframe{height:630px !important}.site-logo-container img, .site-logo-container
+picture{height:3rem}</style><style type="text/css" title="dynamic-css" class="options-output">.wtr-time-wrap{font-family:Arial,Helvetica,sans-serif;text-align:center;line-height:16px;font-weight:400;font-style:normal;color:#7c7676;font-size:16px;opacity:1;visibility:visible;-webkit-transition:opacity 0.24s ease-in-out;-moz-transition:opacity 0.24s ease-in-out;transition:opacity 0.24s ease-in-out}.wf-loading .wtr-time-wrap{opacity:0}.ie.wf-loading .wtr-time-wrap{visibility:hidden}</style><meta
+name="google-site-verification" content="xidNh1YXkC7nGpCdBxWQHRtWcXKBTy2c2aOAoGTtdqc" /></head><body
+class="post-template-default single single-post postid-19851 single-format-standard wp-custom-logo ct-loading" data-link="type-3" data-forms="classic" data-prefix="single_blog_post" data-header="type-1" data-footer="type-1:reveal" itemscope="itemscope" itemtype="https://schema.org/Blog" ><a
+class="skip-link show-on-focus" href="#main">
+Saltar al contenido</a><div
+id="main-container">
+<header
+id="header" class="ct-header" data-id="type-1" itemscope="" itemtype="https://schema.org/WPHeader" ><div
+data-device="desktop" ><div
+data-row="middle" data-column-set="2" ><div
+class="ct-container-fluid" ><div
+data-column="start" data-placements="1" ><div
+data-items="primary" ><div
+class="site-branding"
+data-id="logo" 		itemscope="itemscope" itemtype="https://schema.org/Organization" ><a
+href="https://blog.comparasoftware.com/" class="site-logo-container" rel="home"><img
+width="1930" height="309" src="https://blog.comparasoftware.com/wp-content/uploads/2021/04/Marca-ComparaSoftware-Web-BlancoAzul-SinFondo-01-400px.png" class="default-logo" alt="comparasoftware logo" loading="lazy" /></a></div></div></div><div
+data-column="end" data-placements="1" ><div
+data-items="primary" ><div
+class="ct-header-cta"
+data-id="button" ><a
+href="https://www.comparasoftware.com/"
+class="ct-button"
+data-size="medium"
+target="_blank" rel="noopener noreferrer">
+Categorías de Software	</a></div><a
+href="#search-modal"
+class="ct-header-search "
+aria-label="Buscar"
+data-label="left"
+data-id="search" ><span
+class="ct-label ct-hidden-sm ct-hidden-md ct-hidden-lg">Buscar</span><svg
+class="ct-icon" width="15" height="15" viewBox="0 0 15 15">
+<path
+d="M14.6 13L12 10.5c.7-.8 1.3-2.5 1.3-3.8 0-3.6-3-6.6-6.6-6.6C3 0 0 3.1 0 6.7c0 3.6 3 6.6 6.6 6.6 1.4 0 2.7-.6 3.8-1.2l2.5 2.3c.7.7 1.2.7 1.7.2.5-.5.5-1 0-1.6zm-8-1.4c-2.7 0-4.9-2.2-4.9-4.9s2.2-4.9 4.9-4.9 4.9 2.2 4.9 4.9c0 2.6-2.2 4.9-4.9 4.9z"/>
+</svg>
+</a></div></div></div></div><div
+data-row="bottom" data-column-set="1" ><div
+class="ct-container-fluid" ><div
+data-column="start" data-placements="1" ><div
+data-items="primary" >
+<nav
+id="header-menu-1"
+class="header-menu-1"
+data-id="menu" 	data-menu="type-1"
+data-dropdown="type-3:padded"		data-responsive="no"	itemscope="" itemtype="http://schema.org/SiteNavigationElement" ><ul
+id="menu-menu-ppal-tempo" class="menu"><li
+id="menu-item-28144" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-28144"><a
+href="https://blog.comparasoftware.com/tecnologias-de-aprendizaje/">Aprendizaje</a></li><li
+id="menu-item-28136" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-28136"><a
+href="https://blog.comparasoftware.com/gestion-de-proyectos/">Gestión de Proyectos</a></li><li
+id="menu-item-28137" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-28137"><a
+href="https://blog.comparasoftware.com/itsm/">Gestión ITSM</a></li><li
+id="menu-item-28142" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-28142 animated-submenu"><a
+href="https://blog.comparasoftware.com/servicio-al-cliente/">Servicio al Cliente<span
+class="child-indicator"><svg
+width="8" height="8" viewBox="0 0 15 15"><path
+d="M2.1,3.2l5.4,5.4l5.4-5.4L15,4.3l-7.5,7.5L0,4.3L2.1,3.2z"/></svg></span></a><ul
+class="sub-menu"><li
+id="menu-item-28143" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-28143"><a
+href="https://blog.comparasoftware.com/soporte-tecnico/">Soporte Técnico</a></li></ul></li><li
+id="menu-item-28141" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-28141"><a
+href="https://blog.comparasoftware.com/gestion-mantenimiento/">Mantenimiento</a></li><li
+id="menu-item-28145" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-28145"><a
+href="https://blog.comparasoftware.com/ventas-y-marketing/">Ventas y Marketing</a></li></ul></nav></div></div></div></div></div><div
+data-device="mobile" ><div
+data-row="middle" data-column-set="2" ><div
+class="ct-container-fluid" ><div
+data-column="start" data-placements="1" ><div
+data-items="primary" ><div
+class="site-branding"
+data-id="logo" 		itemscope="itemscope" itemtype="https://schema.org/Organization" ><a
+href="https://blog.comparasoftware.com/" class="site-logo-container" rel="home"><img
+width="1930" height="309" src="https://blog.comparasoftware.com/wp-content/uploads/2021/04/Marca-ComparaSoftware-Web-BlancoAzul-SinFondo-01-400px.png" class="default-logo" alt="comparasoftware logo" loading="lazy" /></a></div></div></div><div
+data-column="end" data-placements="1" ><div
+data-items="primary" >
+<a
+href="#offcanvas"
+class="ct-header-trigger"
+data-design="simple:right"
+aria-label="Menú"
+data-id="trigger" ><span
+class="ct-trigger" data-type="type-3">
+<span></span>
+</span><span
+class="ct-label" >
+Menú	</span>
+</a></div></div></div></div></div></header>
+<main
+id="main" class="site-main hfeed" itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div
+class="ct-container"
+data-sidebar="right"		data-v-spacing="top:bottom"		data-structure="default:boxed">
+<section>
+<article
+id="post-19851"
+class="post-19851 post type-post status-publish format-standard has-post-thumbnail hentry category-gestion-de-proyectos">
+<section
+class="hero-section" data-type="type-1" >
+<header
+class="entry-header">
+<nav
+class="ct-breadcrumbs" itemscope="" itemtype="http://schema.org/BreadcrumbList" ><span
+class="first-item" itemscope="" itemprop="itemListElement" itemtype="http://schema.org/ListItem" ><meta
+itemprop="position" content="1"><a
+href="https://blog.comparasoftware.com/" itemprop="item" ><span
+itemprop="name" >Inicio</span></a><meta
+itemprop="url" content="https://blog.comparasoftware.com/"/><svg
+class="separator" width="8" height="8" viewBox="0 0 8 8">
+<path
+d="M2,6.9L4.8,4L2,1.1L2.6,0l4,4l-4,4L2,6.9z"/>
+</svg></span><span
+class="0-item" itemscope="" itemprop="itemListElement" itemtype="http://schema.org/ListItem" ><meta
+itemprop="position" content="2"><a
+href="https://blog.comparasoftware.com/gestion-de-proyectos/" itemprop="item" ><span
+itemprop="name" >Gestión de Proyectos</span></a><meta
+itemprop="url" content="https://blog.comparasoftware.com/gestion-de-proyectos/"/><svg
+class="separator" width="8" height="8" viewBox="0 0 8 8">
+<path
+d="M2,6.9L4.8,4L2,1.1L2.6,0l4,4l-4,4L2,6.9z"/>
+</svg></span><span
+class="last-item" itemscope="" itemprop="itemListElement" itemtype="http://schema.org/ListItem" ><meta
+itemprop="position" content="3"><span
+itemprop="name" >Alcance de un Proyecto: Definición y Ejemplos</span><meta
+itemprop="url" content="https://blog.comparasoftware.com/alcance-del-proyecto/"/></span>			</nav><h1 class="page-title" itemprop="headline" >Alcance de un Proyecto: Definición y Ejemplos</h1><ul
+class="entry-meta" data-type="icons:slash"  ><li
+class="meta-author" itemprop="name" ><a
+href="https://blog.comparasoftware.com/author/mauriciocomparasoftware-com/" class="ct-image-container-static ct-lazy"><img
+data-ct-lazy="https://secure.gravatar.com/avatar/5c0512ce29e51551ba35f3fe9b7150e0?s=100&d=retro&r=g" data-object-fit="~" width="50" height="50" style="height:50px" alt="Imagen por defecto" ><noscript><img
+src="https://secure.gravatar.com/avatar/5c0512ce29e51551ba35f3fe9b7150e0?s=100&d=retro&r=g" data-object-fit="~" width="50" height="50" style="height:50px" alt="Imagen por defecto" ></noscript></a> <svg
+width="13" height="13" viewBox="0 0 15 15"> <path
+d="M13.6,1.4c-1.9-1.9-4.9-1.9-6.8,0L2.2,6C2.1,6.1,2,6.3,2,6.5V12l-1.8,1.8c-0.3,0.3-0.3,0.7,0,1C0.3,14.9,0.5,15,0.7,15s0.3-0.1,0.5-0.2L3,13h5.5c0.2,0,0.4-0.1,0.5-0.2l2.7-2.7c0,0,0,0,0,0l1.9-1.9C15.5,6.3,15.5,3.3,13.6,1.4z M8.2,11.6H4.4l1.4-1.4h3.9L8.2,11.6z M12.6,7.2L11,8.9H7.1l3.6-3.6c0.3-0.3,0.3-0.7,0-1C10.4,4,10,4,9.7,4.3L5,9.1c0,0,0,0,0,0l-1.6,1.6V6.8l4.4-4.4c1.3-1.3,3.5-1.3,4.8,0C14,3.7,14,5.9,12.6,7.2C12.6,7.2,12.6,7.2,12.6,7.2z"/> </svg> <a
+class="ct-meta-element-author" href="https://blog.comparasoftware.com/author/mauriciocomparasoftware-com/" title="Entradas de Mauricio Cacciavillani" rel="author" itemprop="author" >Mauricio Cacciavillani</a></li><li
+class="meta-date" itemprop="datePublished" ><svg
+width="13" height="13" viewBox="0 0 15 15"> <path
+d="M7.5,0C3.4,0,0,3.4,0,7.5S3.4,15,7.5,15S15,11.6,15,7.5S11.6,0,7.5,0z M7.5,13.6c-3.4,0-6.1-2.8-6.1-6.1c0-3.4,2.8-6.1,6.1-6.1c3.4,0,6.1,2.8,6.1,6.1C13.6,10.9,10.9,13.6,7.5,13.6z M10.8,9.2c-0.1,0.2-0.4,0.4-0.6,0.4c-0.1,0-0.2,0-0.3-0.1L7.2,8.1C7,8,6.8,7.8,6.8,7.5V4c0-0.4,0.3-0.7,0.7-0.7S8.2,3.6,8.2,4v3.1l2.4,1.2C10.9,8.4,11,8.8,10.8,9.2z"/> </svg><time
+class="ct-meta-element-date" datetime="2018-12-24T12:49:18+00:00" >diciembre 24, 2018</time></li><li
+class="meta-categories" data-type="underline"><svg
+width="13" height="13" viewBox="0 0 15 15"><path
+d="M14.4,1.2H0.6C0.3,1.2,0,1.5,0,1.9V5c0,0.3,0.3,0.6,0.6,0.6h0.6v7.5c0,0.3,0.3,0.6,0.6,0.6h11.2c0.3,0,0.6-0.3,0.6-0.6V5.6h0.6C14.7,5.6,15,5.3,15,5V1.9C15,1.5,14.7,1.2,14.4,1.2z M12.5,12.5h-10V5.6h10V12.5z M13.8,4.4H1.2V2.5h12.5V4.4z M5.6,7.5c0-0.3,0.3-0.6,0.6-0.6h2.5c0.3,0,0.6,0.3,0.6,0.6S9.1,8.1,8.8,8.1H6.2C5.9,8.1,5.6,7.8,5.6,7.5z"/></svg><a
+href="https://blog.comparasoftware.com/gestion-de-proyectos/" rel="tag">Gestión de Proyectos</a></li><li
+class="meta-comments"><svg
+width="13" height="13" viewBox="0 0 15 15"> <path
+d="M13.7,14.8L10.9,12H2.2C1,12,0,11,0,9.8l0-7.5C0,1,1,0,2.2,0l10.5,0C14,0,15,1,15,2.2v12c0,0.3-0.2,0.6-0.5,0.7c-0.1,0-0.2,0.1-0.3,0.1C14.1,15,13.9,14.9,13.7,14.8zM2.2,1.5c-0.4,0-0.8,0.3-0.8,0.8v7.5c0,0.4,0.3,0.8,0.8,0.8h9c0.2,0,0.4,0.1,0.5,0.2l1.7,1.7V2.2c0-0.4-0.3-0.8-0.8-0.8H2.2z"/> </svg><a
+href="https://blog.comparasoftware.com/alcance-del-proyecto/#comments">9</a></li></ul>	</header>
+</section>
+<figure
+class="ct-featured-image " ><div
+class="ct-image-container ct-lazy"><img
+width="2240" height="1260" class="attachment-full size-full" alt="Alcance del proyecto" loading="lazy" sizes="(max-width: 2240px) 100vw, 2240px" data-ct-lazy="https://blog.comparasoftware.com/wp-content/uploads/2018/12/Alcance-del-proyecto.png" data-ct-lazy-set="https://blog.comparasoftware.com/wp-content/uploads/2018/12/Alcance-del-proyecto.png 2240w, https://blog.comparasoftware.com/wp-content/uploads/2018/12/Alcance-del-proyecto-300x169.png 300w, https://blog.comparasoftware.com/wp-content/uploads/2018/12/Alcance-del-proyecto-1024x576.png 1024w, https://blog.comparasoftware.com/wp-content/uploads/2018/12/Alcance-del-proyecto-768x432.png 768w, https://blog.comparasoftware.com/wp-content/uploads/2018/12/Alcance-del-proyecto-1536x864.png 1536w, https://blog.comparasoftware.com/wp-content/uploads/2018/12/Alcance-del-proyecto-2048x1152.png 2048w, https://blog.comparasoftware.com/wp-content/uploads/2018/12/Alcance-del-proyecto-1200x675.png 1200w, https://blog.comparasoftware.com/wp-content/uploads/2018/12/Alcance-del-proyecto-1980x1114.png 1980w" data-object-fit="~" itemprop="image" /><noscript><img
+width="2240" height="1260" src="https://blog.comparasoftware.com/wp-content/uploads/2018/12/Alcance-del-proyecto.png" class="attachment-full size-full" alt="Alcance del proyecto" loading="lazy" srcset="https://blog.comparasoftware.com/wp-content/uploads/2018/12/Alcance-del-proyecto.png 2240w, https://blog.comparasoftware.com/wp-content/uploads/2018/12/Alcance-del-proyecto-300x169.png 300w, https://blog.comparasoftware.com/wp-content/uploads/2018/12/Alcance-del-proyecto-1024x576.png 1024w, https://blog.comparasoftware.com/wp-content/uploads/2018/12/Alcance-del-proyecto-768x432.png 768w, https://blog.comparasoftware.com/wp-content/uploads/2018/12/Alcance-del-proyecto-1536x864.png 1536w, https://blog.comparasoftware.com/wp-content/uploads/2018/12/Alcance-del-proyecto-2048x1152.png 2048w, https://blog.comparasoftware.com/wp-content/uploads/2018/12/Alcance-del-proyecto-1200x675.png 1200w, https://blog.comparasoftware.com/wp-content/uploads/2018/12/Alcance-del-proyecto-1980x1114.png 1980w" sizes="(max-width: 2240px) 100vw, 2240px" /></noscript><span
+class="ct-ratio" style="padding-bottom: 56.3%"></span></div></figure><div
+class="ct-share-box ct-hidden-sm" data-location="top" data-type="type-1" >
+<span
+class="ct-module-title" >Comparte este post...</span><div
+data-icons-type="simple">
+<a
+href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fblog.comparasoftware.com%2Falcance-del-proyecto%2F"
+target="_blank"
+rel="noopener noreferrer"
+data-network="facebook"
+aria-label="Facebook"><span
+class="ct-icon-container">
+<svg
+class="ct-icon"
+width="20px"
+height="20px"
+viewBox="0 0 20 20">
+<path
+d="M20,10.1c0-5.5-4.5-10-10-10S0,4.5,0,10.1c0,5,3.7,9.1,8.4,9.9v-7H5.9v-2.9h2.5V7.9C8.4,5.4,9.9,4,12.2,4c1.1,0,2.2,0.2,2.2,0.2v2.5h-1.3c-1.2,0-1.6,0.8-1.6,1.6v1.9h2.8L13.9,13h-2.3v7C16.3,19.2,20,15.1,20,10.1z"/>
+</svg>
+</span><span
+class="ct-label" >Facebook</span>
+</a>
+<a
+href="https://twitter.com/share?url=https%3A%2F%2Fblog.comparasoftware.com%2Falcance-del-proyecto%2F&text=Alcance%20de%20un%20Proyecto%3A%20Definici%C3%B3n%20y%20Ejemplos"
+target="_blank"
+rel="noopener noreferrer"
+data-network="twitter"
+aria-label="Twitter"><span
+class="ct-icon-container">
+<svg
+class="ct-icon"
+width="20px"
+height="20px"
+viewBox="0 0 20 20">
+<path
+d="M20,3.8c-0.7,0.3-1.5,0.5-2.4,0.6c0.8-0.5,1.5-1.3,1.8-2.3c-0.8,0.5-1.7,0.8-2.6,1c-0.7-0.8-1.8-1.3-3-1.3c-2.3,0-4.1,1.8-4.1,4.1c0,0.3,0,0.6,0.1,0.9C6.4,6.7,3.4,5.1,1.4,2.6C1,3.2,0.8,3.9,0.8,4.7c0,1.4,0.7,2.7,1.8,3.4C2,8.1,1.4,7.9,0.8,7.6c0,0,0,0,0,0.1c0,2,1.4,3.6,3.3,4c-0.3,0.1-0.7,0.1-1.1,0.1c-0.3,0-0.5,0-0.8-0.1c0.5,1.6,2,2.8,3.8,2.8c-1.4,1.1-3.2,1.8-5.1,1.8c-0.3,0-0.7,0-1-0.1c1.8,1.2,4,1.8,6.3,1.8c7.5,0,11.7-6.3,11.7-11.7c0-0.2,0-0.4,0-0.5C18.8,5.3,19.4,4.6,20,3.8z"/>
+</svg>
+</span><span
+class="ct-label" >Twitter</span>
+</a>
+<a
+href="#"
+target="_blank"
+rel="noopener noreferrer"
+data-network="pinterest"
+aria-label="Pinterest"><span
+class="ct-icon-container">
+<svg
+class="ct-icon"
+width="20px"
+height="20px"
+viewBox="0 0 20 20">
+<path
+d="M10,0C4.5,0,0,4.5,0,10c0,4.1,2.5,7.6,6,9.2c0-0.7,0-1.5,0.2-2.3c0.2-0.8,1.3-5.4,1.3-5.4s-0.3-0.6-0.3-1.6c0-1.5,0.9-2.6,1.9-2.6c0.9,0,1.3,0.7,1.3,1.5c0,0.9-0.6,2.3-0.9,3.5c-0.3,1.1,0.5,1.9,1.6,1.9c1.9,0,3.2-2.4,3.2-5.3c0-2.2-1.5-3.8-4.2-3.8c-3,0-4.9,2.3-4.9,4.8c0,0.9,0.3,1.5,0.7,2C6,12,6.1,12.1,6,12.4c0,0.2-0.2,0.6-0.2,0.8c-0.1,0.3-0.3,0.3-0.5,0.3c-1.4-0.6-2-2.1-2-3.8c0-2.8,2.4-6.2,7.1-6.2c3.8,0,6.3,2.8,6.3,5.7c0,3.9-2.2,6.9-5.4,6.9c-1.1,0-2.1-0.6-2.4-1.2c0,0-0.6,2.3-0.7,2.7c-0.2,0.8-0.6,1.5-1,2.1C8.1,19.9,9,20,10,20c5.5,0,10-4.5,10-10C20,4.5,15.5,0,10,0z"/>
+</svg>
+</span><span
+class="ct-label" >Pinterest</span>
+</a>
+<a
+href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fblog.comparasoftware.com%2Falcance-del-proyecto%2F&title=Alcance%20de%20un%20Proyecto%3A%20Definici%C3%B3n%20y%20Ejemplos"
+target="_blank"
+rel="noopener noreferrer"
+data-network="linkedin"
+aria-label="LinkedIn"><span
+class="ct-icon-container">
+<svg
+class="ct-icon"
+width="20px"
+height="20px"
+viewBox="0 0 20 20">
+<path
+d="M18.6,0H1.4C0.6,0,0,0.6,0,1.4v17.1C0,19.4,0.6,20,1.4,20h17.1c0.8,0,1.4-0.6,1.4-1.4V1.4C20,0.6,19.4,0,18.6,0z M6,17.1h-3V7.6h3L6,17.1L6,17.1zM4.6,6.3c-1,0-1.7-0.8-1.7-1.7s0.8-1.7,1.7-1.7c0.9,0,1.7,0.8,1.7,1.7C6.3,5.5,5.5,6.3,4.6,6.3z M17.2,17.1h-3v-4.6c0-1.1,0-2.5-1.5-2.5c-1.5,0-1.8,1.2-1.8,2.5v4.7h-3V7.6h2.8v1.3h0c0.4-0.8,1.4-1.5,2.8-1.5c3,0,3.6,2,3.6,4.5V17.1z"/>
+</svg>
+</span><span
+class="ct-label" >LinkedIn</span>
+</a>
+<a
+href="https://reddit.com/submit?url=https%3A%2F%2Fblog.comparasoftware.com%2Falcance-del-proyecto%2F&title=Alcance%20de%20un%20Proyecto%3A%20Definici%C3%B3n%20y%20Ejemplos"
+target="_blank"
+rel="noopener noreferrer"
+data-network="reddit"
+aria-label="Reddit"><span
+class="ct-icon-container">
+<svg
+class="ct-icon"
+width="20px"
+height="20px"
+viewBox="0 0 20 20">
+<path
+d="M11.7,0.9c-0.9,0-2,0.7-2.1,3.9c0.1,0,0.3,0,0.4,0c0.2,0,0.3,0,0.5,0c0.1-1.9,0.6-3.1,1.3-3.1c0.3,0,0.5,0.2,0.8,0.5c0.4,0.4,0.9,0.9,1.8,1.1c0-0.1,0-0.2,0-0.4c0-0.2,0-0.4,0.1-0.5c-0.6-0.2-0.9-0.5-1.2-0.8C12.8,1.3,12.4,0.9,11.7,0.9z M16.9,1.3c-1,0-1.7,0.8-1.7,1.7s0.8,1.7,1.7,1.7s1.7-0.8,1.7-1.7S17.9,1.3,16.9,1.3z M10,5.7c-5.3,0-9.5,2.7-9.5,6.5s4.3,6.9,9.5,6.9s9.5-3.1,9.5-6.9S15.3,5.7,10,5.7z M2.4,6.1c-0.6,0-1.2,0.3-1.7,0.7C0,7.5-0.2,8.6,0.2,9.5C0.9,8.2,2,7.1,3.5,6.3C3.1,6.2,2.8,6.1,2.4,6.1z M17.6,6.1c-0.4,0-0.7,0.1-1.1,0.3c1.5,0.8,2.6,1.9,3.2,3.2c0.4-0.9,0.3-2-0.5-2.7C18.8,6.3,18.2,6.1,17.6,6.1z M6.5,9.6c0.7,0,1.3,0.6,1.3,1.3s-0.6,1.3-1.3,1.3s-1.3-0.6-1.3-1.3S5.8,9.6,6.5,9.6z M13.5,9.6c0.7,0,1.3,0.6,1.3,1.3s-0.6,1.3-1.3,1.3s-1.3-0.6-1.3-1.3S12.8,9.6,13.5,9.6z M6.1,14.3c0.1,0,0.2,0.1,0.3,0.2c0,0.1,1.1,1.4,3.6,1.4c2.6,0,3.6-1.4,3.6-1.4c0.1-0.2,0.4-0.2,0.6-0.1c0.2,0.1,0.2,0.4,0.1,0.6c-0.1,0.1-1.3,1.8-4.3,1.8c-3,0-4.2-1.7-4.3-1.8c-0.1-0.2-0.1-0.5,0.1-0.6C5.9,14.4,6,14.3,6.1,14.3z"/>
+</svg>
+</span><span
+class="ct-label" >Reddit</span>
+</a>
+<a
+href="https://t.me/share/url?url=https%3A%2F%2Fblog.comparasoftware.com%2Falcance-del-proyecto%2F&text=Alcance%20de%20un%20Proyecto%3A%20Definici%C3%B3n%20y%20Ejemplos"
+target="_blank"
+rel="noopener noreferrer"
+data-network="telegram"
+aria-label="Telegram"><span
+class="ct-icon-container">
+<svg
+class="ct-icon"
+width="20px"
+height="20px"
+viewBox="0 0 20 20">
+<path
+d="M19.9,3.1l-3,14.2c-0.2,1-0.8,1.3-1.7,0.8l-4.6-3.4l-2.2,2.1c-0.2,0.2-0.5,0.5-0.9,0.5l0.3-4.7L16.4,5c0.4-0.3-0.1-0.5-0.6-0.2L5.3,11.4L0.7,10c-1-0.3-1-1,0.2-1.5l17.7-6.8C19.5,1.4,20.2,1.9,19.9,3.1z"/>
+</svg>
+</span><span
+class="ct-label" >Telegram</span>
+</a>
+<a
+href="whatsapp://send?text=https%3A%2F%2Fblog.comparasoftware.com%2Falcance-del-proyecto%2F"
+target="_blank"
+rel="noopener noreferrer"
+data-network="whatsapp"
+aria-label="WhatsApp"><span
+class="ct-icon-container">
+<svg
+class="ct-icon"
+width="20px"
+height="20px"
+viewBox="0 0 20 20">
+<path
+d="M10,0C4.5,0,0,4.5,0,10c0,1.9,0.5,3.6,1.4,5.1L0.1,20l5-1.3C6.5,19.5,8.2,20,10,20c5.5,0,10-4.5,10-10S15.5,0,10,0zM6.6,5.3c0.2,0,0.3,0,0.5,0c0.2,0,0.4,0,0.6,0.4c0.2,0.5,0.7,1.7,0.8,1.8c0.1,0.1,0.1,0.3,0,0.4C8.3,8.2,8.3,8.3,8.1,8.5C8,8.6,7.9,8.8,7.8,8.9C7.7,9,7.5,9.1,7.7,9.4c0.1,0.2,0.6,1.1,1.4,1.7c0.9,0.8,1.7,1.1,2,1.2c0.2,0.1,0.4,0.1,0.5-0.1c0.1-0.2,0.6-0.7,0.8-1c0.2-0.2,0.3-0.2,0.6-0.1c0.2,0.1,1.4,0.7,1.7,0.8s0.4,0.2,0.5,0.3c0.1,0.1,0.1,0.6-0.1,1.2c-0.2,0.6-1.2,1.1-1.7,1.2c-0.5,0-0.9,0.2-3-0.6c-2.5-1-4.1-3.6-4.2-3.7c-0.1-0.2-1-1.3-1-2.6c0-1.2,0.6-1.8,0.9-2.1C6.1,5.4,6.4,5.3,6.6,5.3z"/>
+</svg>
+</span><span
+class="ct-label" >WhatsApp</span>
+</a></div></div><div
+class="entry-content"><div
+id="wtr-content"
+data-bg="#FFFFFF"
+data-fg="#0133c6"
+data-width="8"
+data-mute=""
+data-fgopacity="0.5"
+data-mutedopacity="0.5"
+data-placement="top"
+data-placement-offset="0"
+data-content-offset="0"
+data-placement-touch="top"
+data-placement-offset-touch="0"
+data-transparent=""
+data-shadow="1"
+data-touch=""
+data-non-touch="1"
+data-comments=""
+data-commentsbg="#0267bf"
+data-location="page"
+data-mutedfg="#f44813"
+data-endfg="#f44813"
+data-rtl=""
+><p>¡No lo hagas! No empieces nunca un proyecto sin tener 100% claro cuál será el alcance.</p><p>Créeme, he tenido horribles experiencias por no haber definido claramente el alcance de mis proyectos antes de comenzar. Por eso, hoy vamos a:</p><ul><li>Revisar qué es el <strong>alcance en la gestión de proyectos.</strong></li><li>Ver algunos <strong>ejemplos</strong> de alcances bien hechos.</li></ul><p>Ahora, antes de entrar más en detalle, no olvides que el alcance es solo una parte de la gestión del proyecto. Si quieres entender mejor el todo, te recomiendo echar un vistazo a las <a
+rel="noreferrer noopener" href="https://blog.comparasoftware.com/cuales-son-las-fases-de-un-proyecto/" target="_blank">5 fases de un proyecto</a>.</p><h2 id="h-qu-es-alcance-de-un-proyecto"><strong>¿Qué es alcance de un proyecto?</strong></h2><blockquote
+class="wp-block-quote is-style-tw-large-icon is-style-large"><p><strong><span
+style="text-decoration: underline;">Definición simple:</span></strong> El alcance es todo lo que debe hacerse en un proyecto. Ni más ni menos.</p></blockquote><p>Sí, así de simple. El alcance se refiere a todo el trabajo requerido para poder finalizar un proyecto con éxito.</p><p>Primeramente, es preciso ahondar en lo que es alcance de un proyecto. ¿De qué se trata exactamente? Pues se puede explicar enfocándose en su propósito. En pocas palabras, es la&nbsp;determinación concreta y simple de los objetivos que se quieren lograr durante el proceso de desarrollo del proyecto que se tiene entre manos.</p><p>El acatamiento del alcance del proyecto es lo que permite la materialización de ese gran objetivo que se plantea lograr. Ese mismo al que se pretende llegar en los términos aspirados. Esto quiere decir, de manera exitosa.</p><p>A fin de exponer mejor lo que es alcance de un proyecto pueden citarse sus características:</p><ul><li>Específico.</li><li>Sin contradicciones.</li><li>Medible.</li><li>Realista</li><li>Factible.</li><li>Determinado en el tiempo.</li></ul><p>También están aquellos que prefieren describirlo como la totalidad del trabajo necesario para darlo por terminado.</p><figure
+class="wp-block-image size-full"><a
+href="https://www.comparasoftware.com/ppc/blog/119/109/aHR0cHM6Ly9tb25kYXkuY29tL2xwL2xhbmcvZXMvaW50ZXIvcHJvamVjdC9uZXcvP3V0bV9zb3VyY2U9bWImdXRtX2NhbXBhaWduPWNvbXBhcmFzb2Z0d2FyZSZ1dG1fbWVkaXVtPWJhbm5lcg==/aHR0cHM6Ly9ibG9nLmNvbXBhcmFzb2Z0d2FyZS5jb20vYWxjYW5jZS1kZWwtcHJveWVjdG8v" target="_blank" rel="noopener"><img
+loading="lazy" width="1430" height="700" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" class="wp-image-29307 lazyload" sizes="(max-width: 1430px) 100vw, 1430px" data-src="https://blog.comparasoftware.com/wp-content/uploads/2021/02/ComparaSoftware-715x350-1.png" data-srcset="https://blog.comparasoftware.com/wp-content/uploads/2021/02/ComparaSoftware-715x350-1.png 1430w, https://blog.comparasoftware.com/wp-content/uploads/2021/02/ComparaSoftware-715x350-1-300x147.png 300w, https://blog.comparasoftware.com/wp-content/uploads/2021/02/ComparaSoftware-715x350-1-1024x501.png 1024w, https://blog.comparasoftware.com/wp-content/uploads/2021/02/ComparaSoftware-715x350-1-768x376.png 768w"></a></figure><h2 id="h-importancia-del-alcance-del-proyecto">Importancia del alcance del proyecto</h2><p>Quizás, hasta este punto todavía se pueda pensar que el alcance de un proyecto es un formalismo que se puede evadir. No obstante, lo cierto es que no definir este aspecto cuando se ha planificado un gran objetivo, que implica manejo de recursos, puede traer consigo consecuencias negativas.</p><p>Puntualmente, no establecer lo que es el alcance de un proyecto puede significar un arrastre de requisitos. Esto a su vez genera lo que se ha definido como <strong>síndrome del lavadero.</strong></p><p>El denominado &#8220;síndrome del lavadero&#8221;(en inglés) se produce cuando un pequeño gasto, tarea o requerimiento, que resultaba a simple vista simple y manejable, termina siendo una serie de complicaciones que parecen caer en cascada una tras otra. Esto se debe a que no se hizo previamente una especificación al respecto ni mucho menos la planificación correcta.</p><p>Cuando el alcance del proyecto está bien definido, eso permite que toda gestión se mantenga dentro del carril. Con esto se evita perder tiempo y dinero. Ahora sí parece más clara la importancia de todo esto. ¿Verdad?</p><h2 id="h-c-mo-hacer-el-alcance-de-un-proyecto">¿Cómo hacer el alcance de un proyecto?</h2><p>Ahora bien, ya más orientados en lo que es el alcance de un proyecto y su importancia para la materialización cabal del gran objetivo que se ha trazado, surgen nuevas interrogantes.</p><p>Una de las preguntas que vienen al caso es: ¿cómo hacer el alcance de un proyecto adecuadamente? La respuesta es que se precisa de considerar una serie de elementos de forma organizada.</p><p>Específicamente, realizar el alcance de un proyecto pasa por reunir datos como los &nbsp;siguientes:</p><ul><li><strong>Breve descripción del proyecto</strong>: en líneas muy generales y de ser necesario con justificación incluida.</li><li><strong>Entregables</strong>: se refiere a los objetivos específicos del proyecto con respecto a los productos o servicios a realizar.</li><li><strong>Características de los entregables</strong>: corresponde a los resultados esperados del proyecto, tanto si se trata de productos como si son servicios.</li><li><strong>Criterios de aceptación</strong>: condiciones que indican que los productos o servicios están listos para ser entregados, así como que el proyecto se ha finalizado.</li><li><strong>Restricciones</strong>: aquello que limita el alcance. Pueden ser factores económicos, organizacionales, sociales o temporales.</li><li><strong>Supuestos</strong>: posibles escenarios y sus respectivas respuestas sobre el desarrollo de la planificación y la ejecución.</li><li><strong>Exclusiones</strong>: expone los resultados que el plan no va a lograr o lo que no se va a producir.</li></ul><p>Ciertamente, cómo hacer el alcance de un plan implica considerar más que el espacio de aplicación. También contempla información sobre objetivos, hitos y resultados, así como también datos sobre los realizadores del proyecto, el tiempo específico para actividades y el requerimiento de recursos. Además, se recomienda agregar análisis, si es posible.</p><p>Vale aclarar que el documento que expone el alcance del proyecto no es lo mismo que la carta del proyecto. Esta última corresponde a un documento que describe formalmente el plan.</p><p>Para ser exactos, necesitas de un método al momento de establecer el alcance de un proyecto. Por eso, los organismos internacionales recomiendan utilizar un software de gestión que te permita acceder a plantillas, reportes, notificaciones y más, como <a
+href="https://www.comparasoftware.com/ppc/blog/119/109/aHR0cHM6Ly9tb25kYXkuY29tL2xwL2xhbmcvZXMvaW50ZXIvcHJvamVjdC9uZXcvP3V0bV9zb3VyY2U9bWImdXRtX2NhbXBhaWduPWNvbXBhcmFzb2Z0d2FyZSZ1dG1fbWVkaXVtPWJhbm5lcg==/aHR0cHM6Ly9ibG9nLmNvbXBhcmFzb2Z0d2FyZS5jb20vYWxjYW5jZS1kZWwtcHJveWVjdG8v" target="_blank" rel="noreferrer noopener"><strong>Monday</strong></a>.</p><h2 id="h-c-mo-gestionar-el-alcance-de-un-proyecto">¿Cómo gestionar el alcance de un proyecto?</h2><p>El éxito de la gestión del alcance de un proyecto depende de lograr el equilibrio necesario entre las distintas áreas de conocimiento que intervienen en el proceso. Así lo recomienda el&nbsp;Project Management Institute, que &nbsp;expone que dichas áreas corresponden a las siguientes:</p><ul><li><strong>Integración de proyecto&nbsp; (administración)</strong>: enfocada en la coordinación de los elementos que intervienen en el proyecto.</li><li><strong>Alcance de proyecto (administración)</strong>:&nbsp;asegura que se incluyen en el planning los procesos que se llevarán a cabo durante el proyecto.</li><li><strong>Tiempo de proyecto (administración)</strong>:&nbsp;dirigida a promover el objetivo de entregar el proyecto en la fecha fijada.</li><li><strong>Costes del proyecto (gestión)</strong>: garantiza que no se excederá el presupuesto establecido.</li><li><strong>Calidad del proyecto (gestión)</strong>:&nbsp;su misión es garantizar el cumplimiento de los estándares acordados.</li><li><strong>Recursos humanos del proyecto (administración)</strong>:&nbsp;responde a conseguir la eficiencia en la gestión del personal.</li><li><strong>Comunicaciones del proyecto (administración)</strong>:&nbsp;vela por la distribución cabal de la información, la constante actualización y la comunicación eficiente entre &nbsp;todos los participantes.</li><li><strong>Riesgo de proyecto&nbsp;(administración)</strong>:&nbsp;su objetivo es prevenir y minimizar el riesgo, planeando soluciones efectivas para los casos en que haya que hacerle frente.</li><li><strong>Aprovisionamiento de proyecto (gestión)</strong>:&nbsp;trata de buscar la eficiencia en lo que respecta a los costos y plazos, para que esta función apoye al resto y no suponga una carga.</li></ul><p>A ese balance entre esas áreas del conocimiento es aconsejable sumar la &nbsp;consideración de todos los factores que pueden intervenir en el plan. Del mismo modo, deben desecharse aquellos que sean innecesarios. Esto permitirá ajustar todavía más la gestión del alcance de una planificación.</p></div></div><div
+class="author-box ct-hidden-sm" data-type="type-2">
+<a
+href="https://blog.comparasoftware.com/author/mauriciocomparasoftware-com/" class="ct-image-container ct-lazy"><img
+data-ct-lazy="https://secure.gravatar.com/avatar/5c0512ce29e51551ba35f3fe9b7150e0?s=120&d=retro&r=g" data-object-fit="~" width="60" height="60" alt="Imagen por defecto" >
+<svg
+width="18px" height="13px" viewBox="0 0 20 15">
+<polygon
+points="14.5,2 13.6,2.9 17.6,6.9 0,6.9 0,8.1 17.6,8.1 13.6,12.1 14.5,13 20,7.5 "/>
+</svg>
+<noscript><img
+src="https://secure.gravatar.com/avatar/5c0512ce29e51551ba35f3fe9b7150e0?s=120&d=retro&r=g" data-object-fit="~" width="60" height="60" alt="Imagen por defecto" ></noscript><span
+class="ct-ratio" style="padding-bottom: 100%"></span></a>
+<section><h5 class="author-box-name">Mauricio Cacciavillani</h5><div
+class="author-box-bio">
+Experto en Generación de Demanda para la industria del Software.</div><div
+class="author-box-social"><a
+href="https://www.comparasoftware.com" target="_blank" rel="noopener noreferrer">
+<svg
+width="20px" height="20px" viewBox="0 0 20 20"><path
+d="M10 0C4.5 0 0 4.5 0 10s4.5 10 10 10 10-4.5 10-10S15.5 0 10 0zm6.9 6H14c-.4-1.8-1.4-3.6-1.4-3.6s2.8.8 4.3 3.6zM10 2s1.2 1.7 1.9 4H8.1C8.8 3.6 10 2 10 2zM2.2 12s-.6-1.8 0-4h3.4c-.3 1.8 0 4 0 4H2.2zm.9 2H6c.6 2.3 1.4 3.6 1.4 3.6C4.3 16.5 3.1 14 3.1 14zM6 6H3.1c1.6-2.8 4.3-3.6 4.3-3.6S6.4 4.2 6 6zm4 12s-1.3-1.9-1.9-4h3.8c-.6 2.1-1.9 4-1.9 4zm2.3-6H7.7s-.3-2 0-4h4.7c.3 1.8-.1 4-.1 4zm.3 5.6s1-1.8 1.4-3.6h2.9c-1.6 2.7-4.3 3.6-4.3 3.6zm1.7-5.6s.3-2.1 0-4h3.4c.6 2.2 0 4 0 4h-3.4z"/></svg><span
+class="ct-tooltip-top">
+Web					</span>
+</a>
+<a
+href="https://www.linkedin.com/in/mauriciocacciavillani/" target="_blank" rel="noopener noreferrer">
+<svg
+width="20px" height="20px" viewBox="0 0 20 20"><path
+d="M.1 5.8h4.2V20H.1V5.8zm18.4 1.8c-.8-1-2-1.4-3.5-1.4-1.9 0-3.2 1-4.2 2.4h-.1l-.2-2.8H7.2c.1 1.4 0 14.2 0 14.2h4.3v-8.9c.3-1.1 1.1-1.7 2.2-1.7 1.4 0 2.1 1 2.1 3V20h4.1v-8.1c-.1-1.9-.5-3.3-1.4-4.3zM2.2 0C1 0 0 1 0 2.2c0 1.2 1 2.2 2.2 2.2 1.2 0 2.2-1 2.2-2.2C4.3 1 3.4 0 2.2 0z"/></svg><span
+class="ct-tooltip-top">
+Linked In					</span>
+</a></div>
+<span>Artículos:&nbsp;34</span>		</section></div>
+<nav
+class="post-navigation ">
+<a
+href="https://blog.comparasoftware.com/naturaleza-del-proyecto/" class="nav-item-prev">
+<figure
+class="ct-image-container ct-lazy"><img
+width="300" height="169" class="attachment-medium size-medium" alt="Naturaleza del proyecto" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" data-ct-lazy="https://blog.comparasoftware.com/wp-content/uploads/2018/12/Naturaleza-del-proyecto-300x169.png" data-ct-lazy-set="https://blog.comparasoftware.com/wp-content/uploads/2018/12/Naturaleza-del-proyecto-300x169.png 300w, https://blog.comparasoftware.com/wp-content/uploads/2018/12/Naturaleza-del-proyecto-1024x576.png 1024w, https://blog.comparasoftware.com/wp-content/uploads/2018/12/Naturaleza-del-proyecto-768x432.png 768w, https://blog.comparasoftware.com/wp-content/uploads/2018/12/Naturaleza-del-proyecto-1536x864.png 1536w, https://blog.comparasoftware.com/wp-content/uploads/2018/12/Naturaleza-del-proyecto-2048x1152.png 2048w, https://blog.comparasoftware.com/wp-content/uploads/2018/12/Naturaleza-del-proyecto-1200x675.png 1200w, https://blog.comparasoftware.com/wp-content/uploads/2018/12/Naturaleza-del-proyecto-1980x1114.png 1980w" data-object-fit="~" itemprop="image" /><noscript><img
+width="300" height="169" src="https://blog.comparasoftware.com/wp-content/uploads/2018/12/Naturaleza-del-proyecto-300x169.png" class="attachment-medium size-medium" alt="Naturaleza del proyecto" loading="lazy" srcset="https://blog.comparasoftware.com/wp-content/uploads/2018/12/Naturaleza-del-proyecto-300x169.png 300w, https://blog.comparasoftware.com/wp-content/uploads/2018/12/Naturaleza-del-proyecto-1024x576.png 1024w, https://blog.comparasoftware.com/wp-content/uploads/2018/12/Naturaleza-del-proyecto-768x432.png 768w, https://blog.comparasoftware.com/wp-content/uploads/2018/12/Naturaleza-del-proyecto-1536x864.png 1536w, https://blog.comparasoftware.com/wp-content/uploads/2018/12/Naturaleza-del-proyecto-2048x1152.png 2048w, https://blog.comparasoftware.com/wp-content/uploads/2018/12/Naturaleza-del-proyecto-1200x675.png 1200w, https://blog.comparasoftware.com/wp-content/uploads/2018/12/Naturaleza-del-proyecto-1980x1114.png 1980w" sizes="(max-width: 300px) 100vw, 300px" /></noscript><svg
+width="20px" height="15px" viewBox="0 0 20 15"><polygon
+points="0,7.5 5.5,13 6.4,12.1 2.4,8.1 20,8.1 20,6.9 2.4,6.9 6.4,2.9 5.5,2 "/></svg><span
+class="ct-ratio" style="padding-bottom: 100%"></span></figure><div
+class="item-content">
+<span
+class="item-label">
+<span>Entrada</span> anterior						</span><span
+class="item-title">
+Naturaleza del Proyecto: Definición y Gestión							</span></div></a>
+<a
+href="https://blog.comparasoftware.com/help-desk-que-es/" class="nav-item-next"><div
+class="item-content">
+<span
+class="item-label">
+Siguiente <span>Entrada</span>						</span><span
+class="item-title">
+Help Desk: ¿Qué es y para qué sirve?							</span></div><figure
+class="ct-image-container ct-lazy"><img
+width="300" height="300" class="attachment-medium size-medium" alt="" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" data-ct-lazy="https://blog.comparasoftware.com/wp-content/uploads/2020/10/contact-us-300x300.jpg" data-ct-lazy-set="https://blog.comparasoftware.com/wp-content/uploads/2020/10/contact-us-300x300.jpg 300w, https://blog.comparasoftware.com/wp-content/uploads/2020/10/contact-us-1024x1024.jpg 1024w, https://blog.comparasoftware.com/wp-content/uploads/2020/10/contact-us-150x150.jpg 150w, https://blog.comparasoftware.com/wp-content/uploads/2020/10/contact-us-768x768.jpg 768w, https://blog.comparasoftware.com/wp-content/uploads/2020/10/contact-us-1536x1536.jpg 1536w, https://blog.comparasoftware.com/wp-content/uploads/2020/10/contact-us-2048x2048.jpg 2048w, https://blog.comparasoftware.com/wp-content/uploads/2020/10/contact-us-1200x1200.jpg 1200w, https://blog.comparasoftware.com/wp-content/uploads/2020/10/contact-us-1980x1980.jpg 1980w, https://blog.comparasoftware.com/wp-content/uploads/2020/10/contact-us-24x24.jpg 24w, https://blog.comparasoftware.com/wp-content/uploads/2020/10/contact-us-48x48.jpg 48w, https://blog.comparasoftware.com/wp-content/uploads/2020/10/contact-us-96x96.jpg 96w" data-object-fit="~" itemprop="image" /><noscript><img
+width="300" height="300" src="https://blog.comparasoftware.com/wp-content/uploads/2020/10/contact-us-300x300.jpg" class="attachment-medium size-medium" alt="" loading="lazy" srcset="https://blog.comparasoftware.com/wp-content/uploads/2020/10/contact-us-300x300.jpg 300w, https://blog.comparasoftware.com/wp-content/uploads/2020/10/contact-us-1024x1024.jpg 1024w, https://blog.comparasoftware.com/wp-content/uploads/2020/10/contact-us-150x150.jpg 150w, https://blog.comparasoftware.com/wp-content/uploads/2020/10/contact-us-768x768.jpg 768w, https://blog.comparasoftware.com/wp-content/uploads/2020/10/contact-us-1536x1536.jpg 1536w, https://blog.comparasoftware.com/wp-content/uploads/2020/10/contact-us-2048x2048.jpg 2048w, https://blog.comparasoftware.com/wp-content/uploads/2020/10/contact-us-1200x1200.jpg 1200w, https://blog.comparasoftware.com/wp-content/uploads/2020/10/contact-us-1980x1980.jpg 1980w, https://blog.comparasoftware.com/wp-content/uploads/2020/10/contact-us-24x24.jpg 24w, https://blog.comparasoftware.com/wp-content/uploads/2020/10/contact-us-48x48.jpg 48w, https://blog.comparasoftware.com/wp-content/uploads/2020/10/contact-us-96x96.jpg 96w" sizes="(max-width: 300px) 100vw, 300px" /></noscript><svg
+width="20px" height="15px" viewBox="0 0 20 15"><polygon
+points="14.5,2 13.6,2.9 17.6,6.9 0,6.9 0,8.1 17.6,8.1 13.6,12.1 14.5,13 20,7.5 "/></svg><span
+class="ct-ratio" style="padding-bottom: 100%"></span></figure>									</a>
+</nav>
+</article></section>
+<aside
+class="ct-hidden-sm ct-hidden-md"		data-type="type-1"
+id="sidebar"
+itemtype="https://schema.org/WPSideBar" itemscope="itemscope" role="complementary" ><div
+class="ct-sidebar" 			><div
+class="ct-widget widget_media_image" id="media_image-4"><a
+href="https://www.comparasoftware.com/ppc/blog/119/109/aHR0cHM6Ly9tb25kYXkuY29tL2xwL2xhbmcvZXMvaW50ZXIvcHJvamVjdC9uZXcvP3V0bV9zb3VyY2U9bWImdXRtX2NhbXBhaWduPWNvbXBhcmFzb2Z0d2FyZSZ1dG1fbWVkaXVtPWJhbm5lcg==/aHR0cHM6Ly9ibG9nLmNvbXBhcmFzb2Z0d2FyZS5jb20vZ2VzdGlvbi1kZS1wcm95ZWN0b3Mv?utm_source=blog_comparasoftware&#038;utm_content=sidebar&#038;utm_term=proyectos"><img
+width="622" height="880" src="https://blog.comparasoftware.com/wp-content/uploads/2021/02/ComparaSoftware-311x440-1.png" class="image wp-image-29309  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://blog.comparasoftware.com/wp-content/uploads/2021/02/ComparaSoftware-311x440-1.png 622w, https://blog.comparasoftware.com/wp-content/uploads/2021/02/ComparaSoftware-311x440-1-212x300.png 212w" sizes="(max-width: 622px) 100vw, 622px" /></a></div></div></aside></div><div
+class="ct-related-posts-container"><div
+class="ct-container"><div
+class="ct-related-posts" data-column-set="3"><h3 class="ct-block-title">
+Artículos relacionados</h3>
+<article
+itemscope="itemscope" itemtype="https://schema.org/CreativeWork" >
+<a
+class="ct-image-container ct-lazy" href="https://blog.comparasoftware.com/7-tecnicas-de-estimacion-en-scrum/" aria-label="7 Técnicas de Estimación en Scrum"><img
+width="300" height="178" class="attachment-medium size-medium" alt="Estimación en Scrum" loading="lazy" data-ct-lazy="https://blog.comparasoftware.com/wp-content/uploads/2021/04/estimacion_en_scrum-300x178.png" data-ct-lazy-set="https://blog.comparasoftware.com/wp-content/uploads/2021/04/estimacion_en_scrum-300x178.png 300w, https://blog.comparasoftware.com/wp-content/uploads/2021/04/estimacion_en_scrum-1024x608.png 1024w, https://blog.comparasoftware.com/wp-content/uploads/2021/04/estimacion_en_scrum-768x456.png 768w, https://blog.comparasoftware.com/wp-content/uploads/2021/04/estimacion_en_scrum.png 1280w" data-object-fit="~" /><noscript><img
+width="300" height="178" src="https://blog.comparasoftware.com/wp-content/uploads/2021/04/estimacion_en_scrum-300x178.png" class="attachment-medium size-medium" alt="Estimación en Scrum" loading="lazy" /></noscript><span
+class="ct-ratio" style="padding-bottom: 56.3%"></span></a><h3 class="related-entry-title" itemprop="name" >
+<a
+href="https://blog.comparasoftware.com/7-tecnicas-de-estimacion-en-scrum/" itemprop="url" >7 Técnicas de Estimación en Scrum</a></h3><ul
+class="entry-meta" data-type="simple:slash"  ><li
+class="meta-date" itemprop="datePublished" ><time
+class="ct-meta-element-date" datetime="2021-04-21T14:01:46+00:00" >abril 21, 2021</time></li></ul>				</article>
+<article
+itemscope="itemscope" itemtype="https://schema.org/CreativeWork" >
+<a
+class="ct-image-container ct-lazy" href="https://blog.comparasoftware.com/gestion-de-cambios-en-un-proyecto-6-tips-para-mejorar/" aria-label="Gestión de Cambios en un Proyecto: 6 tips para Mejorar"><img
+width="300" height="178" class="attachment-medium size-medium" alt="gestion del cambio en proyectos" loading="lazy" data-ct-lazy="https://blog.comparasoftware.com/wp-content/uploads/2021/04/gestion_de_cambios_en_un_proyecto-300x178.png" data-ct-lazy-set="https://blog.comparasoftware.com/wp-content/uploads/2021/04/gestion_de_cambios_en_un_proyecto-300x178.png 300w, https://blog.comparasoftware.com/wp-content/uploads/2021/04/gestion_de_cambios_en_un_proyecto-1024x608.png 1024w, https://blog.comparasoftware.com/wp-content/uploads/2021/04/gestion_de_cambios_en_un_proyecto-768x456.png 768w, https://blog.comparasoftware.com/wp-content/uploads/2021/04/gestion_de_cambios_en_un_proyecto.png 1280w" data-object-fit="~" /><noscript><img
+width="300" height="178" src="https://blog.comparasoftware.com/wp-content/uploads/2021/04/gestion_de_cambios_en_un_proyecto-300x178.png" class="attachment-medium size-medium" alt="gestion del cambio en proyectos" loading="lazy" /></noscript><span
+class="ct-ratio" style="padding-bottom: 56.3%"></span></a><h3 class="related-entry-title" itemprop="name" >
+<a
+href="https://blog.comparasoftware.com/gestion-de-cambios-en-un-proyecto-6-tips-para-mejorar/" itemprop="url" >Gestión de Cambios en un Proyecto: 6 tips para Mejorar</a></h3><ul
+class="entry-meta" data-type="simple:slash"  ><li
+class="meta-date" itemprop="datePublished" ><time
+class="ct-meta-element-date" datetime="2021-04-14T12:06:41+00:00" >abril 14, 2021</time></li></ul>				</article>
+<article
+itemscope="itemscope" itemtype="https://schema.org/CreativeWork" >
+<a
+class="ct-image-container ct-lazy" href="https://blog.comparasoftware.com/que-es-un-sprint-review/" aria-label="¿Qué es un Sprint Review en Scrum?"><img
+width="300" height="178" class="attachment-medium size-medium" alt="¿Qué es un Sprint Review en Scrum?" loading="lazy" data-ct-lazy="https://blog.comparasoftware.com/wp-content/uploads/2021/04/sprint-review-300x178.png" data-ct-lazy-set="https://blog.comparasoftware.com/wp-content/uploads/2021/04/sprint-review-300x178.png 300w, https://blog.comparasoftware.com/wp-content/uploads/2021/04/sprint-review-1024x608.png 1024w, https://blog.comparasoftware.com/wp-content/uploads/2021/04/sprint-review-768x456.png 768w, https://blog.comparasoftware.com/wp-content/uploads/2021/04/sprint-review.png 1280w" data-object-fit="~" /><noscript><img
+width="300" height="178" src="https://blog.comparasoftware.com/wp-content/uploads/2021/04/sprint-review-300x178.png" class="attachment-medium size-medium" alt="¿Qué es un Sprint Review en Scrum?" loading="lazy" /></noscript><span
+class="ct-ratio" style="padding-bottom: 56.3%"></span></a><h3 class="related-entry-title" itemprop="name" >
+<a
+href="https://blog.comparasoftware.com/que-es-un-sprint-review/" itemprop="url" >¿Qué es un Sprint Review en Scrum?</a></h3><ul
+class="entry-meta" data-type="simple:slash"  ><li
+class="meta-date" itemprop="datePublished" ><time
+class="ct-meta-element-date" datetime="2021-04-05T02:18:47+00:00" >abril 5, 2021</time></li></ul>				</article>
+<article
+itemscope="itemscope" itemtype="https://schema.org/CreativeWork" >
+<a
+class="ct-image-container ct-lazy" href="https://blog.comparasoftware.com/product-backlog-scrum/" aria-label="¿Qué es el Product Backlog en Scrum?"><img
+width="300" height="178" class="attachment-medium size-medium" alt="¿Qué es el Product Backlog en Scrum?" loading="lazy" data-ct-lazy="https://blog.comparasoftware.com/wp-content/uploads/2021/04/product-backlog-300x178.png" data-ct-lazy-set="https://blog.comparasoftware.com/wp-content/uploads/2021/04/product-backlog-300x178.png 300w, https://blog.comparasoftware.com/wp-content/uploads/2021/04/product-backlog-1024x608.png 1024w, https://blog.comparasoftware.com/wp-content/uploads/2021/04/product-backlog-768x456.png 768w, https://blog.comparasoftware.com/wp-content/uploads/2021/04/product-backlog.png 1280w" data-object-fit="~" /><noscript><img
+width="300" height="178" src="https://blog.comparasoftware.com/wp-content/uploads/2021/04/product-backlog-300x178.png" class="attachment-medium size-medium" alt="¿Qué es el Product Backlog en Scrum?" loading="lazy" /></noscript><span
+class="ct-ratio" style="padding-bottom: 56.3%"></span></a><h3 class="related-entry-title" itemprop="name" >
+<a
+href="https://blog.comparasoftware.com/product-backlog-scrum/" itemprop="url" >¿Qué es el Product Backlog en Scrum?</a></h3><ul
+class="entry-meta" data-type="simple:slash"  ><li
+class="meta-date" itemprop="datePublished" ><time
+class="ct-meta-element-date" datetime="2021-04-05T01:45:34+00:00" >abril 5, 2021</time></li></ul>				</article>
+<article
+itemscope="itemscope" itemtype="https://schema.org/CreativeWork" >
+<a
+class="ct-image-container ct-lazy" href="https://blog.comparasoftware.com/antipatron-scrum-que-debes-evitar/" aria-label="3 Tipos de Antipatrón Scrum que Debes Evitar"><img
+width="300" height="178" class="attachment-medium size-medium" alt="3 Tipos de Antipatrón Scrum que Debes Evitar" loading="lazy" data-ct-lazy="https://blog.comparasoftware.com/wp-content/uploads/2021/04/antipatron-scrum-300x178.png" data-ct-lazy-set="https://blog.comparasoftware.com/wp-content/uploads/2021/04/antipatron-scrum-300x178.png 300w, https://blog.comparasoftware.com/wp-content/uploads/2021/04/antipatron-scrum-1024x608.png 1024w, https://blog.comparasoftware.com/wp-content/uploads/2021/04/antipatron-scrum-768x456.png 768w, https://blog.comparasoftware.com/wp-content/uploads/2021/04/antipatron-scrum.png 1280w" data-object-fit="~" /><noscript><img
+width="300" height="178" src="https://blog.comparasoftware.com/wp-content/uploads/2021/04/antipatron-scrum-300x178.png" class="attachment-medium size-medium" alt="3 Tipos de Antipatrón Scrum que Debes Evitar" loading="lazy" /></noscript><span
+class="ct-ratio" style="padding-bottom: 56.3%"></span></a><h3 class="related-entry-title" itemprop="name" >
+<a
+href="https://blog.comparasoftware.com/antipatron-scrum-que-debes-evitar/" itemprop="url" >3 Tipos de Antipatrón Scrum que Debes Evitar</a></h3><ul
+class="entry-meta" data-type="simple:slash"  ><li
+class="meta-date" itemprop="datePublished" ><time
+class="ct-meta-element-date" datetime="2021-04-05T01:00:14+00:00" >abril 5, 2021</time></li></ul>				</article></div></div></div><div
+class="ct-comments-container"><div
+class="ct-container-narrow"><div
+class="ct-comments" id="comments"><h3 class="ct-comments-title">
+9 comentarios</h3><ol
+class="ct-comment-list"><li
+id="comment-1724" class="comment even thread-even depth-1 ct-has-avatar"><div
+class="ct-comment-inner" id="ct-comment-inner-1724"><div
+class="ct-comment-info">
+<figure
+class="ct-image-container ct-lazy"><img
+data-ct-lazy="https://secure.gravatar.com/avatar/3d2c5a6feaf9a014b05897a917806d80?s=100&d=retro&r=g" data-object-fit="~" width="100" height="100" alt="Flaminio medina ramirez" ><noscript><img
+src="https://secure.gravatar.com/avatar/3d2c5a6feaf9a014b05897a917806d80?s=100&d=retro&r=g" data-object-fit="~" width="100" height="100" alt="Flaminio medina ramirez" ></noscript><span
+class="ct-ratio" style="padding-bottom: 100%"></span></figure>
+<section><div
+class="ct-comment-author">
+<a
+href='http://No%20tengo%20mi%20gente%20bella' rel='external nofollow ugc' class='url'>Flaminio medina ramirez</a></div><div
+class="ct-comment-meta">
+<a
+href="https://blog.comparasoftware.com/alcance-del-proyecto/#comment-1724">
+Nov 16, 2020 / 5:42 pm						</a>
+<a
+rel='nofollow' class='comment-reply-link' href='#comment-1724' data-commentid="1724" data-postid="19851" data-belowelement="ct-comment-inner-1724" data-respondelement="respond" data-replyto="Responder a Flaminio medina ramirez" aria-label='Responder a Flaminio medina ramirez'>Responder</a></div>
+</section></div><div
+class="ct-comment-content entry-content"><p>Excelente trabajo Mauricio felicitaciones mucho éxito</p></div></div></li><li
+id="comment-1739" class="comment byuser comment-author-leomerly-salismey odd alt thread-odd thread-alt depth-1 ct-has-avatar"><div
+class="ct-comment-inner" id="ct-comment-inner-1739"><div
+class="ct-comment-info">
+<figure
+class="ct-image-container ct-lazy"><img
+data-ct-lazy="https://secure.gravatar.com/avatar/f1bcb2d306939d73594aef49120d7aaf?s=100&d=retro&r=g" data-object-fit="~" width="100" height="100" alt="Aristides Noguera" ><noscript><img
+src="https://secure.gravatar.com/avatar/f1bcb2d306939d73594aef49120d7aaf?s=100&d=retro&r=g" data-object-fit="~" width="100" height="100" alt="Aristides Noguera" ></noscript><span
+class="ct-ratio" style="padding-bottom: 100%"></span></figure>
+<section><div
+class="ct-comment-author">
+Aristides Noguera</div><div
+class="ct-comment-meta">
+<a
+href="https://blog.comparasoftware.com/alcance-del-proyecto/#comment-1739">
+Nov 20, 2020 / 2:27 pm						</a>
+<a
+rel='nofollow' class='comment-reply-link' href='#comment-1739' data-commentid="1739" data-postid="19851" data-belowelement="ct-comment-inner-1739" data-respondelement="respond" data-replyto="Responder a Aristides Noguera" aria-label='Responder a Aristides Noguera'>Responder</a></div>
+</section></div><div
+class="ct-comment-content entry-content"><p>Un alcance del proyecto bien definido es una necesidad para garantizar el éxito de un proyecto. Sin él, no importa cuán eficiente, efectivo y duro se trabaje, no se podrá tener éxito en el proyecto.</p><p>Definir el alcance del proyecto implica adoptar una visión clara y un acuerdo sobre los resultados del proyecto. Esto permite que cada hito del proyecto se mantenga en el objetivo.</p><p>Es más fácil decirlo que hacerlo, ¿no?</p><p>¿Cuáles son los softwares que recomiendan para la definición del alcance del proyecto?</p></div></div></li><li
+id="comment-2422" class="comment even thread-even depth-1 ct-has-avatar"><div
+class="ct-comment-inner" id="ct-comment-inner-2422"><div
+class="ct-comment-info">
+<figure
+class="ct-image-container ct-lazy"><img
+data-ct-lazy="https://secure.gravatar.com/avatar/28e77615060ee5b1ebe19682bcea0324?s=100&d=retro&r=g" data-object-fit="~" width="100" height="100" alt="Karla" ><noscript><img
+src="https://secure.gravatar.com/avatar/28e77615060ee5b1ebe19682bcea0324?s=100&d=retro&r=g" data-object-fit="~" width="100" height="100" alt="Karla" ></noscript><span
+class="ct-ratio" style="padding-bottom: 100%"></span></figure>
+<section><div
+class="ct-comment-author">
+Karla</div><div
+class="ct-comment-meta">
+<a
+href="https://blog.comparasoftware.com/alcance-del-proyecto/#comment-2422">
+Ene 20, 2021 / 2:14 am						</a>
+<a
+rel='nofollow' class='comment-reply-link' href='#comment-2422' data-commentid="2422" data-postid="19851" data-belowelement="ct-comment-inner-2422" data-respondelement="respond" data-replyto="Responder a Karla" aria-label='Responder a Karla'>Responder</a></div>
+</section></div><div
+class="ct-comment-content entry-content"><p>Muchas gracias por la recomendacion de la herramienta Monday, mañana mismo comenzamos a usarlo!</p></div></div></li><li
+id="comment-2556" class="comment odd alt thread-odd thread-alt depth-1 ct-has-avatar"><div
+class="ct-comment-inner" id="ct-comment-inner-2556"><div
+class="ct-comment-info">
+<figure
+class="ct-image-container ct-lazy"><img
+data-ct-lazy="https://secure.gravatar.com/avatar/28e77615060ee5b1ebe19682bcea0324?s=100&d=retro&r=g" data-object-fit="~" width="100" height="100" alt="Roman" ><noscript><img
+src="https://secure.gravatar.com/avatar/28e77615060ee5b1ebe19682bcea0324?s=100&d=retro&r=g" data-object-fit="~" width="100" height="100" alt="Roman" ></noscript><span
+class="ct-ratio" style="padding-bottom: 100%"></span></figure>
+<section><div
+class="ct-comment-author">
+Roman</div><div
+class="ct-comment-meta">
+<a
+href="https://blog.comparasoftware.com/alcance-del-proyecto/#comment-2556">
+Ene 27, 2021 / 4:45 pm						</a>
+<a
+rel='nofollow' class='comment-reply-link' href='#comment-2556' data-commentid="2556" data-postid="19851" data-belowelement="ct-comment-inner-2556" data-respondelement="respond" data-replyto="Responder a Roman" aria-label='Responder a Roman'>Responder</a></div>
+</section></div><div
+class="ct-comment-content entry-content"><p>“síndrome del lavadero” No sabia que tenia nombre por lo que estamos pasando, excelente artículo , gracias!</p></div></div></li><li
+id="comment-2589" class="comment even thread-even depth-1 ct-has-avatar"><div
+class="ct-comment-inner" id="ct-comment-inner-2589"><div
+class="ct-comment-info">
+<figure
+class="ct-image-container ct-lazy"><img
+data-ct-lazy="https://secure.gravatar.com/avatar/28e77615060ee5b1ebe19682bcea0324?s=100&d=retro&r=g" data-object-fit="~" width="100" height="100" alt="Maricarmen Mendoza" ><noscript><img
+src="https://secure.gravatar.com/avatar/28e77615060ee5b1ebe19682bcea0324?s=100&d=retro&r=g" data-object-fit="~" width="100" height="100" alt="Maricarmen Mendoza" ></noscript><span
+class="ct-ratio" style="padding-bottom: 100%"></span></figure>
+<section><div
+class="ct-comment-author">
+Maricarmen Mendoza</div><div
+class="ct-comment-meta">
+<a
+href="https://blog.comparasoftware.com/alcance-del-proyecto/#comment-2589">
+Ene 29, 2021 / 1:32 am						</a>
+<a
+rel='nofollow' class='comment-reply-link' href='#comment-2589' data-commentid="2589" data-postid="19851" data-belowelement="ct-comment-inner-2589" data-respondelement="respond" data-replyto="Responder a Maricarmen Mendoza" aria-label='Responder a Maricarmen Mendoza'>Responder</a></div>
+</section></div><div
+class="ct-comment-content entry-content"><p>Buenas noches el software Monday se puedría adaptar a una agencia publicitaria? Estamos ubicados en Santa Cruz de la Sierra Bolivia</p></div></div><ul
+class="children"><li
+id="comment-2627" class="comment odd alt depth-2 ct-has-avatar"><div
+class="ct-comment-inner" id="ct-comment-inner-2627"><div
+class="ct-comment-info">
+<figure
+class="ct-image-container ct-lazy"><img
+data-ct-lazy="https://secure.gravatar.com/avatar/4e0b6393b0a0c0fb7c45a2d5fd723bfb?s=100&d=retro&r=g" data-object-fit="~" width="100" height="100" alt="Equipo ComparaSoftware" ><noscript><img
+src="https://secure.gravatar.com/avatar/4e0b6393b0a0c0fb7c45a2d5fd723bfb?s=100&d=retro&r=g" data-object-fit="~" width="100" height="100" alt="Equipo ComparaSoftware" ></noscript><span
+class="ct-ratio" style="padding-bottom: 100%"></span></figure>
+<section><div
+class="ct-comment-author">
+<a
+href='https://www.comparasoftware.com/' rel='external nofollow ugc' class='url'>Equipo ComparaSoftware</a></div><div
+class="ct-comment-meta">
+<a
+href="https://blog.comparasoftware.com/alcance-del-proyecto/#comment-2627">
+Ene 29, 2021 / 10:07 pm						</a>
+<a
+rel='nofollow' class='comment-reply-link' href='#comment-2627' data-commentid="2627" data-postid="19851" data-belowelement="ct-comment-inner-2627" data-respondelement="respond" data-replyto="Responder a Equipo ComparaSoftware" aria-label='Responder a Equipo ComparaSoftware'>Responder</a></div>
+</section></div><div
+class="ct-comment-content entry-content"><p>Hola, Maricarmen. Por supuesto, Monday es un software muy flexible y lo puedes adaptar a actividades publicitarias sin problema 🙂</p></div></div></li></ul></li><li
+id="comment-2715" class="comment even thread-odd thread-alt depth-1 ct-has-avatar"><div
+class="ct-comment-inner" id="ct-comment-inner-2715"><div
+class="ct-comment-info">
+<figure
+class="ct-image-container ct-lazy"><img
+data-ct-lazy="https://secure.gravatar.com/avatar/28e77615060ee5b1ebe19682bcea0324?s=100&d=retro&r=g" data-object-fit="~" width="100" height="100" alt="Martina" ><noscript><img
+src="https://secure.gravatar.com/avatar/28e77615060ee5b1ebe19682bcea0324?s=100&d=retro&r=g" data-object-fit="~" width="100" height="100" alt="Martina" ></noscript><span
+class="ct-ratio" style="padding-bottom: 100%"></span></figure>
+<section><div
+class="ct-comment-author">
+Martina</div><div
+class="ct-comment-meta">
+<a
+href="https://blog.comparasoftware.com/alcance-del-proyecto/#comment-2715">
+Feb 2, 2021 / 3:08 pm						</a>
+<a
+rel='nofollow' class='comment-reply-link' href='#comment-2715' data-commentid="2715" data-postid="19851" data-belowelement="ct-comment-inner-2715" data-respondelement="respond" data-replyto="Responder a Martina" aria-label='Responder a Martina'>Responder</a></div>
+</section></div><div
+class="ct-comment-content entry-content"><p>Soy seguidor de su blog pero nunca había comentado, déjenme decirles que la herramienta Monday tiene todo lo que necesitas quedamos encantados, de hecho ya renovamos su servicio!!!</p></div></div></li><li
+id="comment-2716" class="comment odd alt thread-even depth-1 ct-has-avatar"><div
+class="ct-comment-inner" id="ct-comment-inner-2716"><div
+class="ct-comment-info">
+<figure
+class="ct-image-container ct-lazy"><img
+data-ct-lazy="https://secure.gravatar.com/avatar/28e77615060ee5b1ebe19682bcea0324?s=100&d=retro&r=g" data-object-fit="~" width="100" height="100" alt="Estefany Melo" ><noscript><img
+src="https://secure.gravatar.com/avatar/28e77615060ee5b1ebe19682bcea0324?s=100&d=retro&r=g" data-object-fit="~" width="100" height="100" alt="Estefany Melo" ></noscript><span
+class="ct-ratio" style="padding-bottom: 100%"></span></figure>
+<section><div
+class="ct-comment-author">
+Estefany Melo</div><div
+class="ct-comment-meta">
+<a
+href="https://blog.comparasoftware.com/alcance-del-proyecto/#comment-2716">
+Feb 2, 2021 / 3:12 pm						</a>
+<a
+rel='nofollow' class='comment-reply-link' href='#comment-2716' data-commentid="2716" data-postid="19851" data-belowelement="ct-comment-inner-2716" data-respondelement="respond" data-replyto="Responder a Estefany Melo" aria-label='Responder a Estefany Melo'>Responder</a></div>
+</section></div><div
+class="ct-comment-content entry-content"><p>Hola como estan? Tenemos la idea de expandir nuestros servicios y nos gustaria contar con una herramienta para organizar todo. Estamos ubicados en Panamá</p></div></div><ul
+class="children"><li
+id="comment-3006" class="comment even depth-2 ct-has-avatar"><div
+class="ct-comment-inner" id="ct-comment-inner-3006"><div
+class="ct-comment-info">
+<figure
+class="ct-image-container ct-lazy"><img
+data-ct-lazy="https://secure.gravatar.com/avatar/4e0b6393b0a0c0fb7c45a2d5fd723bfb?s=100&d=retro&r=g" data-object-fit="~" width="100" height="100" alt="Equipo ComparaSoftware" ><noscript><img
+src="https://secure.gravatar.com/avatar/4e0b6393b0a0c0fb7c45a2d5fd723bfb?s=100&d=retro&r=g" data-object-fit="~" width="100" height="100" alt="Equipo ComparaSoftware" ></noscript><span
+class="ct-ratio" style="padding-bottom: 100%"></span></figure>
+<section><div
+class="ct-comment-author">
+<a
+href='https://www.comparasoftware.com/' rel='external nofollow ugc' class='url'>Equipo ComparaSoftware</a></div><div
+class="ct-comment-meta">
+<a
+href="https://blog.comparasoftware.com/alcance-del-proyecto/#comment-3006">
+Feb 16, 2021 / 9:13 pm						</a>
+<a
+rel='nofollow' class='comment-reply-link' href='#comment-3006' data-commentid="3006" data-postid="19851" data-belowelement="ct-comment-inner-3006" data-respondelement="respond" data-replyto="Responder a Equipo ComparaSoftware" aria-label='Responder a Equipo ComparaSoftware'>Responder</a></div>
+</section></div><div
+class="ct-comment-content entry-content"><p>Hola, Estefany. Para organizar tu proyecto de expansión te recomendamos utilizar un <a
+href="https://www.comparasoftware.com/gestion-agil-de-proyectos" target="_blank" rel="noopener nofollow ugc">Software de Gestión Ágil. </a> Algunas opciones pueden ser <a
+href="https://monday.com/lp/lang/es/inter/project/new/?utm_source=mb&amp;utm_campaign=comparasoftware&amp;utm_medium=projectmanagement" target="_blank" rel="noopener nofollow ugc">Monday</a>, <a
+href="https://www.comparasoftware.com/wrike" target="_blank" rel="noopener nofollow ugc">Wrike</a> o <a
+href="https://www.comparasoftware.com/trello" target="_blank" rel="noopener nofollow ugc">Trello</a>.</p></div></div></li></ul></li></ol><div
+id="respond" class="comment-respond"><h3 id="reply-title" class="comment-reply-title">Deja un comentario<span
+class="ct-cancel-reply"><a
+rel="nofollow" id="cancel-comment-reply-link" href="/alcance-del-proyecto/#respond" style="display:none;">Cancelar respuesta</a></span></h3><form
+action="https://blog.comparasoftware.com/wp-comments-post.php" method="post" id="commentform" class="comment-form has-website-field"><p
+class="comment-form-input-author">
+<input
+id="author" name="author" type="text" value="" size="30" aria-required='true' />
+<label
+for="author">Nombre <b
+class="required">*</b></label></p><p
+class="comment-form-input-email">
+<input
+id="email" name="email" type="text" value="" size="30" aria-required='true' />
+<label
+for="email">Correo electrónico <b
+class="required">*</b></label></p><p
+class="comment-form-input-url">
+<input
+id="url" name="url" type="text" value="" size="30" />
+<label
+for="url">Web</label></p><p
+class="comment-form-textarea"><textarea id="comment" name="comment" cols="45" rows="8" aria-required="true"></textarea><label
+for="comment">Añadir comentario</label></p><p
+class="form-submit"><button
+type="submit" name="submit" id="submit" class="submit" value="Publicar el comentario">Publicar el comentario</button> <input
+type='hidden' name='comment_post_ID' value='19851' id='comment_post_ID' />
+<input
+type='hidden' name='comment_parent' id='comment_parent' value='0' /></p></form></div><div
+id="wtr-comments-end"></div></div></div></div>
+</main><footer
+class="ct-footer" data-id="type-1" itemscope="" itemtype="https://schema.org/WPFooter" ><div
+data-row="middle" ><div
+class="ct-container" data-stack="tablet:mobile" ><div
+data-column="widget-area-1" ><div
+class="ct-widget widget_text" id="text-47"><div
+class="textwidget entry-content"><div
+class="title"><img
+loading="lazy" class="alignnone  wp-image-30586 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="comparasoftware" width="201" height="32" data-src="https://blog.comparasoftware.com/wp-content/uploads/2021/04/Marca-ComparaSoftware-Web-GrisAzul-SinFondo-01-400px-1-300x48.png"></div><div></div><div
+class="title">Buscar un software no es fácil. Ayudamos a empresas de todo el mundo a tomar decisiones informadas sobre la elección de sus herramientas digitales. Somos la mayor plataforma de búsqueda y comparación de software en el mercado hispanohablante.</div><div></div></div></div></div><div
+data-column="widget-area-2" ><div
+class="ct-widget widget_nav_menu" id="nav_menu-7"><h2 class="widget-title">La empresa</h2><div
+class="menu-footer-container"><ul
+id="menu-footer" class="widget-menu"><li
+id="menu-item-21561" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21561"><a
+rel="nofollow" href="https://www.comparasoftware.com/">Compara Software</a></li><li
+id="menu-item-21516" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21516"><a
+rel="nofollow" href="https://blog.comparasoftware.com/contacto/">Contacto</a></li><li
+id="menu-item-21515" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-21515"><a
+rel="nofollow" href="https://blog.comparasoftware.com/politica-de-privacidad/">Política de Privacidad</a></li><li
+id="menu-item-21519" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21519"><a
+rel="nofollow" href="https://blog.comparasoftware.com/politica-de-cookies/">Política de Cookies</a></li></ul></div></div></div><div
+data-column="widget-area-3" ><div
+class="ct-widget widget_text" id="text-48"><h2 class="widget-title">Contáctanos</h2><div
+class="textwidget entry-content"><div
+class="text-uppercase-expanded text-xs mb-4"><a
+href="mailto:info@comparasoftware.com">info@comparasoftware.com</a></div><ul><li
+class="text-uppercase-expanded text-xs mb-4"><strong>Chile:</strong> +56-2-2958-9840</li><li
+class="text-uppercase-expanded text-xs mb-4"><strong>Argentina:</strong> +54-11-5279-8391</li><li
+class="text-uppercase-expanded text-xs mb-4"><strong>Colombia:</strong> +57-1-58023110</li><li
+class="text-uppercase-expanded text-xs mb-4"><strong>México:</strong> +52-55-8526-5801</li><li
+class="text-uppercase-expanded text-xs mb-4"><strong>Perú:</strong> +51-1-6429811</li></ul></div></div></div></div></div><div
+data-row="bottom" ><div
+class="ct-container" ><div
+data-column="copyright" ><div
+class="ct-footer-copyright"
+data-id="copyright" ><p>© 2021 Hecho con ❤️ en Santiago, Chile</p></div></div></div></div></footer></div> <script>document.addEventListener("DOMContentLoaded",function(){var e="undefined"!=typeof MutationObserver;if(WPO_LazyLoad.update(),e){var t=new MutationObserver(function(e){e.forEach(function(e){WPO_LazyLoad.update(e.addedNodes)})}),n={childList:!0,subtree:!0},a=document.getElementsByTagName("body")[0];t.observe(a,n)}else window.addEventListener("load",function(){WPO_LazyLoad.deferred_call("update",WPO_LazyLoad.update)}),window.addEventListener("scroll",function(){WPO_LazyLoad.deferred_call("update",WPO_LazyLoad.update)}),window.addEventListener("resize",function(){WPO_LazyLoad.deferred_call("update",WPO_LazyLoad.update)}),document.getElementsByTagName("body")[0].addEventListener("post-load",function(){WPO_LazyLoad.deferred_call("update",WPO_LazyLoad.update)})});var WPO_Intersection_Observer=function(e,t){function n(e){d.push(e)}function a(e){var t;for(t in d)if(d.hasOwnProperty(t)&&e==d[t])return void delete d[t]}function o(){var t;for(t in d)d.hasOwnProperty(t)&&r(d[t])&&(e(d[t]),a(d[t]))}function r(e){var n=e.getBoundingClientRect(),a=window.innerHeight||document.documentElement.clientHeight||document.body.clientHeight;return n.top-t.offset<a&&n.bottom+t.offset>0}var d=[];return t=t||{offset:100},window.addEventListener("load",function(){WPO_LazyLoad.deferred_call("check",o)}),window.addEventListener("scroll",function(){WPO_LazyLoad.deferred_call("check",o)}),window.addEventListener("resize",function(){WPO_LazyLoad.deferred_call("check",o)}),{observe:n,unobserve:a}},WPO_LazyLoad=function(){function e(e){if(!c(e,u.loaded_class)){d(e,u.loaded_class),i.unobserve(e),s(e,u.observe_class);var n,a=e.tagName;if("picture"==a.toLowerCase())for(n in e.childNodes)e.childNodes.hasOwnProperty(n)&&t(e.childNodes[n]);else t(e)}}function t(e){if("undefined"!=typeof e.getAttribute){var t=e.getAttribute("data-src"),n=e.getAttribute("data-srcset");t&&(e.setAttribute("src",t),e.removeAttribute("data-src")),n&&(e.setAttribute("srcset",n),e.removeAttribute("data-srcset"))}}function n(t){var n;for(n in t)t.hasOwnProperty(n)&&t[n].isIntersecting&&e(t[n].target)}function a(e){s(e,u.select_class),c(e,u.observe_class)||(d(e,u.observe_class),i.observe(e))}function o(e){var t,n=e||Array.prototype.slice.call(u.container.getElementsByClassName(u.select_class));for(t in n)n.hasOwnProperty(t)&&(c(n[t],u.select_class)?a(n[t]):n[t].childNodes&&n[t].childNodes.length&&o(n[t].childNodes))}function r(e,t,n){n=n||200,f[e]=f[e]?f[e]+1:1,setTimeout(function(){var a=(new Date).getTime(),o=v[e]||0;f[e]--,(0===f[e]||o+n<a)&&(v[e]=a,t())},n)}function d(e,t){c(e,t)||(e.className?e.className+=" "+t:e.className=t)}function s(e,t){var n=new RegExp(["(^|\\s)",t,"(\\s|$)"].join(""));e.className=e.className.replace(n," ")}function c(e,t){var n=new RegExp(["(^|\\s)",t,"(\\s|$)"].join(""));return n.test(e.className)}var i,l="undefined"!=typeof IntersectionObserver,u={container:window.document,select_class:"lazyload",observe_class:"lazyload-observe",loaded_class:"lazyload-loaded"};i=l?new IntersectionObserver(n,{root:null,rootMargin:"0px",threshold:[.1]}):new WPO_Intersection_Observer(e);var f={},v={};return{update:o,deferred_call:r}}();</script> <noscript><iframe
+src="https://www.googletagmanager.com/ns.html?id=GTM-PMHMK9K"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><div
+class="ct-drawer-canvas">
+<a
+href="#" class="ct-back-to-top ct-hidden-sm"
+data-shape="square"
+data-alignment="right"
+title="Ir arriba" aria-label="Ir arriba"><svg
+width="12" height="12" viewBox="0 0 20 20"><path
+d="M10,0L9.4,0.6L0.8,9.1l1.2,1.2l7.1-7.1V20h1.7V3.3l7.1,7.1l1.2-1.2l-8.5-8.5L10,0z"/></svg>
+</a><div
+id="search-modal" class="ct-panel" data-behaviour="modal"><div
+class="ct-panel-actions"><div
+class="close-button">
+<span
+class="ct-trigger closed">
+<span></span>
+</span></div></div><div
+class="ct-panel-content"><form
+role="search" method="get"
+class="search-form"
+action="https://blog.comparasoftware.com"
+data-live-results="thumbs"><div
+class="ct-search-input">
+<input
+type="search" class="modal-field" placeholder="Buscar" value="" name="s" autocomplete="off" title="Buscar entrada" /><button
+class="search-submit" aria-label="Buscar">
+<span
+hidden>Buscar</span>
+<svg
+class="ct-icon"
+width="12px"
+height="12px"
+viewBox="0 0 24 24"><path
+d="M23.3,23.3c-0.9,0.9-2.3,0.9-3.2,0l-4-4c-1.6,1-3.6,1.7-5.7,1.7C4.7,21,0,16.3,0,10.5S4.7,0,10.5,0C16.3,0,21,4.7,21,10.5
+c0,2.1-0.6,4-1.7,5.7l4,4C24.2,21,24.2,22.5,23.3,23.3z M10.5,3C6.4,3,3,6.4,3,10.5S6.4,18,10.5,18c4.1,0,7.5-3.4,7.5-7.5
+C18,6.4,14.7,3,10.5,3z"/>
+</svg><span
+data-loader="circles"><span></span><span></span><span></span></span>
+</button>
+<input
+type="hidden" name="ct_post_type" value="post:page:product"></div></form></div></div><div
+id="offcanvas" class="ct-panel ct-header" data-behaviour="modal" data-device="mobile" ><div
+class="ct-panel-actions"><div
+class="close-button">
+<span
+class="ct-trigger closed">
+<span></span>
+</span></div></div><div
+class="ct-panel-content" data-device="desktop" ></div><div
+class="ct-panel-content" data-device="mobile" >
+<nav
+class="mobile-menu has-submenu" data-id="mobile-menu" data-type="type-1" ><ul
+id="menu-menu-ppal-tempo-1" class=""><li
+class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-28144"><a
+href="https://blog.comparasoftware.com/tecnologias-de-aprendizaje/">Aprendizaje</a></li><li
+class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-28136"><a
+href="https://blog.comparasoftware.com/gestion-de-proyectos/">Gestión de Proyectos</a></li><li
+class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-28137"><a
+href="https://blog.comparasoftware.com/itsm/">Gestión ITSM</a></li><li
+class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-28142"><a
+href="https://blog.comparasoftware.com/servicio-al-cliente/">Servicio al Cliente<span
+class="child-indicator"><svg
+width="8" height="8" viewBox="0 0 15 15"><path
+d="M2.1,3.2l5.4,5.4l5.4-5.4L15,4.3l-7.5,7.5L0,4.3L2.1,3.2z"/></svg></span></a><ul
+class="sub-menu"><li
+class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-28143"><a
+href="https://blog.comparasoftware.com/soporte-tecnico/">Soporte Técnico</a></li></ul></li><li
+class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-28141"><a
+href="https://blog.comparasoftware.com/gestion-mantenimiento/">Mantenimiento</a></li><li
+class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-28145"><a
+href="https://blog.comparasoftware.com/ventas-y-marketing/">Ventas y Marketing</a></li></ul></nav></div></div></div><div
+id="amp-mobile-version-switcher" hidden>
+<a
+rel="amphtml" href="https://blog.comparasoftware.com/alcance-del-proyecto/?amp=1">
+Ir a la versión móvil			</a></div> <script type='text/javascript' src='https://blog.comparasoftware.com/wp-content/plugins/metronet-profile-picture/js/mpp-frontend.js?ver=2.5.0' id='mpp_gutenberg_tabs-js'></script> <script type='text/javascript' src='https://blog.comparasoftware.com/wp-content/plugins/worth-the-read/js/wtr.js?ver=5.7.1' id='wtr-js-js'></script> <script type='text/javascript' id='ie11-custom-properties-js-after'>!function(d){if(window.MSInputMethodContext&&document.documentMode){var s=d.createElement('script');s.src='https://blog.comparasoftware.com/wp-content/plugins/ghostkit/assets/vendor/ie11-custom-properties/ie11CustomProperties.js?ver=4.1.0';d.head.appendChild(s);}}(document)</script> <script type='text/javascript' id='ghostkit-helper-js-extra'>var ghostkitVariables={"themeName":"Blocksy","settings":[],"disabledBlocks":[],"media_sizes":{"sm":576,"md":768,"lg":992,"xl":1200},"googleMapsAPIKey":"","googleMapsAPIUrl":"https:\/\/maps.googleapis.com\/maps\/api\/js?v=3.exp&language=es","googleMapsLibrary":{"url":"https:\/\/blog.comparasoftware.com\/wp-content\/plugins\/ghostkit\/assets\/vendor\/gmaps\/gmaps.min.js?ver=0.4.25"},"googleReCaptchaAPISiteKey":"","googleReCaptchaAPISecretKey":"","sidebars":{"ecs-sidebar-28512":{"id":"ecs-sidebar-28512","name":"Sidebar Proyectos"},"sidebar-1":{"id":"sidebar-1","name":"Barra lateral principal"},"ct-footer-sidebar-1":{"id":"ct-footer-sidebar-1","name":"Footer Column 1"},"ct-footer-sidebar-2":{"id":"ct-footer-sidebar-2","name":"Footer Column 2"},"ct-footer-sidebar-3":{"id":"ct-footer-sidebar-3","name":"Footer Column 3"},"ct-footer-sidebar-4":{"id":"ct-footer-sidebar-4","name":"Footer Column 4"},"ct-footer-sidebar-5":{"id":"ct-footer-sidebar-5","name":"Footer Column 5"},"ct-footer-sidebar-6":{"id":"ct-footer-sidebar-6","name":"Footer Column 6"}},"icons":[],"shapes":[],"fonts":[],"customTypographyList":[],"variants":{"accordion":{"default":{"title":"Por defecto"}},"accordion_item":{"default":{"title":"Por defecto"}},"alert":{"default":{"title":"Por defecto"}},"button_wrapper":{"default":{"title":"Por defecto"}},"button":{"default":{"title":"Por defecto"}},"carousel":{"default":{"title":"Por defecto"}},"carousel_slide":{"default":{"title":"Por defecto"}},"changelog":{"default":{"title":"Por defecto"}},"counter_box":{"default":{"title":"Por defecto"}},"divider":{"default":{"title":"Por defecto"}},"gist":{"default":{"title":"Por defecto"}},"google_maps":{"default":{"title":"Por defecto"}},"grid":{"default":{"title":"Por defecto"}},"grid_column":{"default":{"title":"Por defecto"}},"icon_box":{"default":{"title":"Por defecto"}},"instagram":{"default":{"title":"Por defecto"}},"pricing_table":{"default":{"title":"Por defecto"}},"pricing_table_item":{"default":{"title":"Por defecto"}},"progress":{"default":{"title":"Por defecto"}},"tabs":{"default":{"title":"Por defecto"}},"tabs_tab":{"default":{"title":"Por defecto"}},"testimonial":{"default":{"title":"Por defecto"}},"twitter":{"default":{"title":"Por defecto"}},"video":{"default":{"title":"Por defecto"}}},"admin_url":"https:\/\/blog.comparasoftware.com\/wp-admin\/","admin_templates_url":"https:\/\/blog.comparasoftware.com\/wp-admin\/edit.php?post_type=ghostkit_template"};</script> <script type='text/javascript' src='https://blog.comparasoftware.com/wp-content/plugins/ghostkit/assets/js/helper.min.js?ver=2.19.1' id='ghostkit-helper-js'></script> <script type='text/javascript' src='https://blog.comparasoftware.com/wp-content/plugins/ghostkit/assets/vendor/object-fit-images/dist/ofi.min.js?ver=3.2.4' id='object-fit-images-js'></script> <script type='text/javascript' src='https://blog.comparasoftware.com/wp-content/plugins/ghostkit/assets/vendor/scrollreveal/dist/scrollreveal.min.js?ver=4.0.7' id='scrollreveal-js'></script> <script type='text/javascript' src='https://blog.comparasoftware.com/wp-content/plugins/ghostkit/assets/js/main.min.js?ver=2.19.1' id='ghostkit-js'></script> <script type='text/javascript' src='https://blog.comparasoftware.com/wp-content/themes/blocksy/static/bundle/events.js?ver=1.7.71' id='ct-events-js'></script> <script type='text/javascript' id='ct-scripts-js-extra'>var ct_localizations={"ajax_url":"https:\/\/blog.comparasoftware.com\/wp-admin\/admin-ajax.php","nonce":"c5e8cca2c4","public_url":"https:\/\/blog.comparasoftware.com\/wp-content\/themes\/blocksy\/static\/bundle\/","rest_url":"https:\/\/blog.comparasoftware.com\/wp-json\/","search_url":"https:\/\/blog.comparasoftware.com\/search\/QUERY_STRING\/","show_more_text":"Mostrar m\u00e1s","more_text":"M\u00e1s","internet_explorer_template":"<div class=\"ct-unsuported-browser\">\n\t<svg width=\"120px\" height=\"120px\" viewBox=\"0 0 100 100\">\n\t\t<path d=\"M14.8,54.7c-1.3,0-2.3-1-2.3-2.3v-4.7c0-1.3,1-2.3,2.3-2.3s2.3,1,2.3,2.3v4.7C17.2,53.7,16.1,54.7,14.8,54.7zM35.6,79.6l-4.1-2.3c-1.1-0.6-2.6-0.2-3.2,0.9s-0.2,2.6,0.9,3.2l4.1,2.3c0.4,0.2,0.8,0.3,1.2,0.3c0.8,0,1.6-0.4,2-1.2C37.1,81.7,36.7,80.2,35.6,79.6z M68.4,77.3l-4.1,2.3c-1.1,0.6-1.5,2.1-0.9,3.2c0.5,0.8,1.2,1.2,2,1.2c0.4,0,0.8-0.1,1.2-0.3l4.1-2.3c1.1-0.6,1.5-2.1,0.9-3.2S69.5,76.6,68.4,77.3zM82.8,47.7v4.7c0,1.3,1,2.3,2.3,2.3s2.3-1,2.3-2.3v-4.7c0-1.3-1-2.3-2.3-2.3S82.8,46.3,82.8,47.7zM70.8,18.7l-4.1-2.3c-1.1-0.6-2.6-0.2-3.2,0.9s-0.2,2.6,0.9,3.2l4.1,2.3c0.4,0.2,0.8,0.3,1.2,0.3c0.8,0,1.6-0.4,2-1.2C72.3,20.8,71.9,19.3,70.8,18.7zM33.3,16.3l-4.1,2.3c-1.1,0.6-1.5,2.1-0.9,3.2c0.5,0.8,1.2,1.2,2,1.2c0.4,0,0.8-0.1,1.2-0.3l4.1-2.3c1.1-0.6,1.5-2.1,0.9-3.2S34.4,15.7,33.3,16.3z M60.2,10.2c0,5.6-4.5,10.2-10.2,10.2s-10.2-4.5-10.2-10.2S44.4,0,50,0S60.2,4.5,60.2,10.2zM55.5,10.2c0-3-2.4-5.5-5.5-5.5s-5.5,2.4-5.5,5.5s2.4,5.5,5.5,5.5S55.5,13.2,55.5,10.2z M60.2,89.8c0,5.6-4.5,10.2-10.2,10.2s-10.2-4.5-10.2-10.2S44.4,79.7,50,79.7S60.2,84.2,60.2,89.8zM55.5,89.8c0-3-2.4-5.5-5.5-5.5s-5.5,2.4-5.5,5.5s2.4,5.5,5.5,5.5S55.5,92.9,55.5,89.8zM95.3,70.3c0,5.6-4.5,10.2-10.2,10.2S75,75.9,75,70.3s4.5-10.2,10.2-10.2S95.3,64.7,95.3,70.3zM90.6,70.3c0-3-2.4-5.5-5.5-5.5s-5.5,2.4-5.5,5.5s2.4,5.5,5.5,5.5S90.6,73.4,90.6,70.3zM75,29.7c0-5.6,4.5-10.2,10.2-10.2s10.2,4.5,10.2,10.2s-4.5,10.2-10.2,10.2S75,35.3,75,29.7zM79.7,29.7c0,3,2.4,5.5,5.5,5.5s5.5-2.4,5.5-5.5s-2.4-5.5-5.5-5.5S79.7,26.6,79.7,29.7z M25,29.7c0,5.6-4.5,10.2-10.2,10.2S4.7,35.3,4.7,29.7s4.5-10.2,10.2-10.2S25,24.1,25,29.7zM20.3,29.7c0-3-2.4-5.5-5.5-5.5s-5.5,2.4-5.5,5.5s2.4,5.5,5.5,5.5S20.3,32.7,20.3,29.7zM25,70.3c0,5.6-4.5,10.2-10.2,10.2S4.7,75.9,4.7,70.3s4.5-10.2,10.2-10.2S25,64.7,25,70.3z M20.3,70.3c0-3-2.4-5.5-5.5-5.5s-5.5,2.4-5.5,5.5s2.4,5.5,5.5,5.5S20.3,73.4,20.3,70.3z\"\/>\n\t\t<path d=\"M64.6,52.7c0,1-1.9,3.9-4.8,5.3c-1.7,0.9-7-3.4-5.9-4.8s3.4,0.5,4.7-0.5C63.2,49.5,64.6,51.6,64.6,52.7zM71.9,50c0,12-9.8,21.9-21.9,21.9S28.1,62,28.1,50S38,28.1,50,28.1S71.9,38,71.9,50z M67.2,50c0-1.6-0.2-3.1-0.8-4.5l-1.2-0.3h-1.8c-1.1,0-2.1-0.5-2.7-1.3C59.8,42.7,59,41,58.4,41c-0.8,0-2.1,5.5-4.8,5.5c-2.1,0-3.9-4.6-3.3-6.2c0.9-2.3,2.8-1.8,4.8-2.7c0.9-0.4,1.5-1.3,1.5-2.3v-1.2c-2-0.9-4.2-1.3-6.6-1.3c-8.6,0-15.7,6.3-17.1,14.6l1.2-0.1c0.7,0.1,1.3,0.4,1.4,0.9c0.3,2-1.8,2.7-1.2,4.3c0.5,1.5,2.5,2,3.5,1c1-0.9,2.2-3,2.4-4.9c0.3-3.3,4.4-4.8,6.1-1.8c0.5,0.9,0.2,2.5-0.8,3.6s-2.7,2-2.6,3.4c0.2,1.2,4.8,1.4,3.4,6.7c-0.2,0.8-0.6,1.5-1,2.1c-0.3,0.5-0.7,0.9-1.2,1.3c-0.7,0.5-1.4,0.9-2,1.2H42c2.4,1.2,5.2,2,8,2C59.5,67.2,67.2,59.5,67.2,50z\"\/>\n\t<\/svg>\n\n\n\t<h2>\n\t\tEst\u00e1s usando un navegador antiguo o no compatible\t<\/h2>\n\n\t<p>\n\t\tPor <b><a href=\"https:\/\/mashable.com\/article\/internet-explorer-vulnerability-just-stop-using-it\/\" target=\"_blank\">razones de seguridad<\/a><\/b> y para sacar el m\u00e1ximo provecho de tu tema, por favor, actualiza <a href=\"https:\/\/www.microsoft.com\/en-us\/windows\/microsoft-edge\" target=\"_blank\">tu navegador<\/a> a la \u00faltima versi\u00f3n o usa uno de estos navegadores <a href=\"https:\/\/www.google.com\/chrome\/\" target=\"_blank\">Chrome<\/a>, <a href=\"https:\/\/support.apple.com\/downloads\/safari\" target=\"_blank\">Safari<\/a> o <a href=\"https:\/\/www.mozilla.org\/en-US\/firefox\/new\/\" target=\"_blank\">Firefox <\/a> en su lugar.\t<\/p>\n<\/div>\n\n"};</script> <script type='text/javascript' src='https://blog.comparasoftware.com/wp-content/themes/blocksy/static/bundle/main.js?ver=1.7.71' id='ct-scripts-js'></script> <script type='text/javascript' src='https://blog.comparasoftware.com/wp-content/plugins/blocksy-companion/static/bundle/main.js?ver=1.7.63' id='blocksy-companion-scripts-js'></script> <script type='text/javascript' src='https://blog.comparasoftware.com/wp-includes/js/comment-reply.min.js?ver=5.7.1' id='comment-reply-js'></script> <script type='text/javascript' src='https://blog.comparasoftware.com/wp-includes/js/wp-embed.min.js?ver=5.7.1' id='wp-embed-js'></script> </body></html>
+<!--
+*** This site runs WP Super Minify plugin v1.5.1 - http://wordpress.org/plugins/wp-super-minify ***
+*** Total size saved: 4.63% | Size before compression: 102705 bytes | Size after compression: 97950 bytes. ***
+-->
+<!-- Cached by WP-Optimize (gzip) - https://getwpo.com - Last modified: Wed, 21 Apr 2021 16:05:02 GMT -->

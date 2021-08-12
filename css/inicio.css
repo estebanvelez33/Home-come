@@ -1,0 +1,24 @@
+@charset "utf-8";
+/*CSS Document */
+*
+.limpir {
+      clear: both;  
+}
+
+#logo{
+	position: center;
+    margin: 20px 540px;
+}
+
+#boton1{
+   margin: 20px 10px 100px 400px;
+}
+#boton2{
+     margin: 20px 10px 100px 110px;
+}
+#boton3{
+   margin: -50px 10px 10px 400px;
+}
+#boton4{
+     margin: -50px 10px 10px 113px;
+}
